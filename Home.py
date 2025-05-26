@@ -1,5 +1,12 @@
 import streamlit as st
 
+# OpenAI API Key
+OPENAI_API_KEY = st.secrets["openai"]["api_key"]
+
+# Email Credentials
+EMAIL_USER = st.secrets["email"]["user"]
+EMAIL_PASS = st.secrets["email"]["password"]
+
 st.set_page_config(
     page_title="Career Recommendation System",
     page_icon="🎯",
