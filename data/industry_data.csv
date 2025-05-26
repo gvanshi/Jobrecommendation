@@ -1,0 +1,251 @@
+Timestamp,Name (Optional),Years of Industry Experience,Primary Industry,How well-prepared are recent graduates for technical industry roles?,What are the most important technical skills that you expect graduates to have? (Select all that apply),What are the key knowledge gaps that you notice in recent graduates entering your industry? (Select all that apply),"Are there theoretical concepts taught in academic courses that are often misunderstood or not effectively applied in industry? (If yes, please specify)",How would you rate the interpersonal and communication skills of recent graduates?,How effectively do graduates demonstrate critical thinking and problem-solving skills in your industry?,"How adaptable are recent graduates in learning new tools, technologies, or methods once they are employed?","Do you think graduates with experience in real-world, project-based learning during their studies are more successful in the industry?","How valuable is hands-on training (e.g., internships, co-op programs) in preparing students for industry roles?",What types of learning resources or tools do you recommend for students to bridge the gap between academic knowledge and industry applications? (Select all that apply),How often does your company collaborate with academic institutions to shape the curriculum or provide guest lectures/workshops?,"In your opinion, how often should academic programs be updated to keep up with industry trends and needs?",Which emerging technologies or industry trends do you think should be introduced into academic curricula to better prepare students? (Select all that apply),What is the single most important change that academic institutions can make to better prepare students for roles in your industry?,"Do you believe continuous learning (through workshops, certifications, etc.) should be encouraged throughout a professional's career to keep up with technological advances?"
+,,1,Manufacturing,Somewhat prepared,Cybersecurity,Communication,No,1,4,4,No,Valuable,Bootcamps,Never,Every 5 years,Blockchain,Increase practical exposure,Yes
+,,29,Manufacturing,Prepared,Project Management,Communication,No,1,2,4,Yes,Somewhat valuable,Bootcamps,Never,Every year,AI/ML,Collaborate with industry,Yes
+,,34,Construction,Prepared,Programming,Practical skills,No,1,1,5,Yes,Not valuable,Workshops,Rarely,Every year,AI/ML,Enhance soft skills training,No
+,,27,Finance,Not prepared,Project Management,Practical skills,No,3,3,5,Yes,Valuable,Mentorship,Sometimes,Every 2 years,AI/ML,Increase practical exposure,Yes
+,,37,Construction,Prepared,Data Analysis,Industry knowledge,Yes,5,1,2,No,Not valuable,Workshops,Sometimes,Every 5 years,Blockchain,Increase practical exposure,Yes
+,,12,Construction,Prepared,Cybersecurity,Practical skills,No,2,4,5,No,Highly valuable,Workshops,Sometimes,Every 5 years,Blockchain,Update curriculum,No
+,,37,Healthcare,Somewhat prepared,Programming,Critical thinking,No,2,4,4,Yes,Valuable,Online courses,Often,Every 2 years,IoT,Update curriculum,Yes
+,,13,Finance,Not prepared,Data Analysis,Industry knowledge,Yes,5,2,3,Yes,Valuable,Workshops,Often,Every 2 years,IoT,Update curriculum,Yes
+,,7,IT,Not prepared,AI/ML,Industry knowledge,No,3,1,3,Yes,Highly valuable,Bootcamps,Sometimes,Every 5 years,Sustainability,Enhance soft skills training,Yes
+,,17,Education,Well-prepared,Project Management,Industry knowledge,No,4,3,4,Yes,Highly valuable,Bootcamps,Rarely,Every 2 years,Blockchain,Enhance soft skills training,Yes
+,,24,Finance,Not prepared,Programming,Industry knowledge,No,5,3,2,Yes,Somewhat valuable,Online courses,Never,Every 5 years,AI/ML,Update curriculum,No
+,,17,Healthcare,Well-prepared,Data Analysis,Industry knowledge,No,4,1,4,No,Somewhat valuable,Online courses,Often,Every year,IoT,Update curriculum,No
+,,5,Education,Prepared,Programming,Critical thinking,No,2,5,4,Yes,Highly valuable,Online courses,Rarely,Every 2 years,Data Science,Increase practical exposure,No
+,,18,IT,Somewhat prepared,Programming,Industry knowledge,No,1,4,5,No,Somewhat valuable,Mentorship,Sometimes,Every 2 years,Blockchain,Enhance soft skills training,Yes
+,,34,Education,Not prepared,Cybersecurity,Industry knowledge,No,1,2,5,No,Highly valuable,Bootcamps,Sometimes,Every year,Data Science,Enhance soft skills training,Yes
+,,7,Finance,Prepared,AI/ML,Industry knowledge,No,3,1,1,Yes,Highly valuable,Workshops,Never,Every 2 years,Blockchain,Enhance soft skills training,Yes
+,,19,IT,Prepared,Programming,Critical thinking,No,2,2,1,Yes,Somewhat valuable,Online courses,Rarely,Every year,Sustainability,Collaborate with industry,No
+,,13,Healthcare,Not prepared,Cybersecurity,Critical thinking,Yes,2,4,1,No,Highly valuable,Mentorship,Rarely,Every year,Data Science,Update curriculum,No
+,,27,Healthcare,Not prepared,Data Analysis,Communication,No,5,4,4,No,Somewhat valuable,Mentorship,Often,Every year,IoT,Increase practical exposure,Yes
+,,24,Education,Somewhat prepared,Project Management,Communication,No,4,4,4,No,Highly valuable,Online courses,Often,Every 2 years,IoT,Update curriculum,No
+,,31,Healthcare,Not prepared,Networking,Communication,Yes,2,4,3,No,Valuable,Mentorship,Never,Every year,Blockchain,Collaborate with industry,Yes
+,,4,Manufacturing,Somewhat prepared,Project Management,Practical skills,Yes,2,3,5,Yes,Not valuable,Online courses,Never,Every 2 years,IoT,Collaborate with industry,Yes
+,,9,Healthcare,Somewhat prepared,Networking,Communication,No,3,1,2,Yes,Highly valuable,Workshops,Sometimes,Every 2 years,Sustainability,Enhance soft skills training,No
+,,5,Healthcare,Somewhat prepared,AI/ML,Industry knowledge,Yes,2,3,5,Yes,Not valuable,Mentorship,Never,Every 5 years,AI/ML,Enhance soft skills training,Yes
+,,7,Finance,Not prepared,Cybersecurity,Critical thinking,No,2,4,4,No,Not valuable,Online courses,Never,Every 5 years,Data Science,Collaborate with industry,Yes
+,,11,Construction,Well-prepared,Project Management,Practical skills,No,2,3,3,No,Not valuable,Workshops,Often,Every year,IoT,Collaborate with industry,No
+,,25,Construction,Not prepared,Networking,Industry knowledge,Yes,4,5,3,Yes,Not valuable,Workshops,Sometimes,Every year,AI/ML,Enhance soft skills training,Yes
+,,10,Finance,Somewhat prepared,Project Management,Communication,No,4,2,4,No,Highly valuable,Workshops,Never,Every 2 years,IoT,Collaborate with industry,No
+,,33,Education,Somewhat prepared,Data Analysis,Communication,No,5,1,5,Yes,Not valuable,Bootcamps,Never,Every 5 years,IoT,Enhance soft skills training,No
+,,16,IT,Prepared,Networking,Critical thinking,No,2,5,2,No,Not valuable,Workshops,Often,Every 5 years,Blockchain,Collaborate with industry,No
+,,21,Construction,Somewhat prepared,Data Analysis,Industry knowledge,Yes,5,1,5,No,Valuable,Workshops,Rarely,Every 5 years,Sustainability,Enhance soft skills training,No
+,,28,Education,Somewhat prepared,AI/ML,Industry knowledge,Yes,1,3,3,Yes,Highly valuable,Bootcamps,Often,Every 5 years,Data Science,Enhance soft skills training,No
+,,11,Education,Well-prepared,Data Analysis,Critical thinking,Yes,1,3,2,Yes,Somewhat valuable,Mentorship,Never,Every 5 years,Data Science,Collaborate with industry,Yes
+,,34,Finance,Prepared,Programming,Critical thinking,No,1,1,2,No,Somewhat valuable,Online courses,Often,Every 2 years,Data Science,Update curriculum,No
+,,26,Manufacturing,Prepared,Cybersecurity,Industry knowledge,No,2,4,4,Yes,Not valuable,Mentorship,Rarely,Every 5 years,Data Science,Collaborate with industry,No
+,,4,Education,Somewhat prepared,Programming,Practical skills,Yes,5,5,3,No,Valuable,Bootcamps,Sometimes,Every 2 years,Sustainability,Increase practical exposure,No
+,,34,IT,Somewhat prepared,Project Management,Practical skills,No,5,2,4,No,Not valuable,Workshops,Never,Every 2 years,Blockchain,Increase practical exposure,No
+,,37,Education,Well-prepared,Programming,Industry knowledge,Yes,1,4,4,No,Valuable,Online courses,Often,Every year,Sustainability,Enhance soft skills training,Yes
+,,38,IT,Somewhat prepared,AI/ML,Practical skills,No,4,4,5,Yes,Not valuable,Online courses,Sometimes,Every 2 years,IoT,Collaborate with industry,No
+,,17,Construction,Well-prepared,Networking,Communication,No,5,5,3,Yes,Valuable,Online courses,Sometimes,Every year,Blockchain,Increase practical exposure,Yes
+,,32,Manufacturing,Prepared,Project Management,Critical thinking,No,2,4,1,Yes,Not valuable,Online courses,Sometimes,Every 5 years,Data Science,Collaborate with industry,Yes
+,,20,IT,Somewhat prepared,Data Analysis,Practical skills,No,1,1,5,Yes,Somewhat valuable,Bootcamps,Often,Every 5 years,Blockchain,Update curriculum,Yes
+,,12,Construction,Prepared,AI/ML,Industry knowledge,No,4,4,2,Yes,Not valuable,Online courses,Never,Every 2 years,Sustainability,Enhance soft skills training,Yes
+,,1,Healthcare,Somewhat prepared,Data Analysis,Practical skills,No,2,5,5,No,Somewhat valuable,Bootcamps,Never,Every 5 years,Blockchain,Enhance soft skills training,No
+,,6,Education,Prepared,AI/ML,Practical skills,Yes,4,3,2,Yes,Valuable,Online courses,Rarely,Every 2 years,Sustainability,Update curriculum,No
+,,31,IT,Well-prepared,Programming,Practical skills,No,2,5,3,Yes,Valuable,Online courses,Sometimes,Every 2 years,Data Science,Collaborate with industry,Yes
+,,28,Construction,Prepared,Data Analysis,Critical thinking,No,4,2,5,No,Highly valuable,Mentorship,Sometimes,Every year,IoT,Enhance soft skills training,No
+,,37,IT,Well-prepared,Data Analysis,Communication,No,3,2,4,No,Not valuable,Bootcamps,Sometimes,Every year,Blockchain,Collaborate with industry,No
+,,12,Finance,Somewhat prepared,Programming,Communication,No,5,3,1,No,Highly valuable,Bootcamps,Never,Every 2 years,AI/ML,Enhance soft skills training,No
+,,2,Healthcare,Prepared,AI/ML,Communication,Yes,5,5,1,No,Somewhat valuable,Workshops,Rarely,Every 5 years,IoT,Update curriculum,No
+,,5,Construction,Prepared,Programming,Practical skills,No,2,1,4,No,Highly valuable,Workshops,Often,Every year,Data Science,Update curriculum,Yes
+,,2,Education,Well-prepared,Project Management,Practical skills,No,2,5,5,Yes,Not valuable,Bootcamps,Rarely,Every 2 years,Blockchain,Increase practical exposure,Yes
+,,4,Manufacturing,Not prepared,Programming,Critical thinking,No,2,3,2,No,Valuable,Online courses,Sometimes,Every 5 years,Sustainability,Collaborate with industry,Yes
+,,21,Construction,Not prepared,AI/ML,Critical thinking,No,4,4,3,No,Highly valuable,Online courses,Rarely,Every 5 years,Data Science,Enhance soft skills training,Yes
+,,34,Education,Somewhat prepared,Data Analysis,Industry knowledge,No,4,4,3,No,Not valuable,Mentorship,Rarely,Every year,AI/ML,Enhance soft skills training,No
+,,7,Manufacturing,Prepared,Project Management,Practical skills,No,1,4,2,Yes,Valuable,Bootcamps,Sometimes,Every 5 years,Sustainability,Enhance soft skills training,No
+,,24,Construction,Somewhat prepared,Project Management,Practical skills,Yes,4,2,3,Yes,Valuable,Workshops,Rarely,Every 5 years,Sustainability,Enhance soft skills training,Yes
+,,10,IT,Somewhat prepared,Programming,Industry knowledge,Yes,4,1,5,No,Highly valuable,Bootcamps,Sometimes,Every year,AI/ML,Update curriculum,No
+,,14,Manufacturing,Well-prepared,Networking,Communication,Yes,2,5,4,No,Somewhat valuable,Bootcamps,Often,Every 5 years,AI/ML,Enhance soft skills training,Yes
+,,24,Manufacturing,Well-prepared,Programming,Industry knowledge,Yes,3,2,5,No,Not valuable,Online courses,Never,Every year,Data Science,Update curriculum,Yes
+,,3,Healthcare,Not prepared,Networking,Communication,No,3,4,1,Yes,Somewhat valuable,Online courses,Often,Every 2 years,AI/ML,Collaborate with industry,Yes
+,,32,Education,Prepared,Cybersecurity,Critical thinking,Yes,4,1,5,No,Not valuable,Mentorship,Sometimes,Every 2 years,Blockchain,Update curriculum,No
+,,9,Construction,Well-prepared,Project Management,Critical thinking,No,5,2,1,Yes,Not valuable,Mentorship,Rarely,Every 5 years,IoT,Increase practical exposure,Yes
+,,39,Manufacturing,Well-prepared,AI/ML,Critical thinking,Yes,2,1,2,No,Somewhat valuable,Bootcamps,Often,Every 5 years,IoT,Collaborate with industry,No
+,,27,Healthcare,Not prepared,Data Analysis,Critical thinking,No,1,5,2,No,Highly valuable,Mentorship,Sometimes,Every year,IoT,Collaborate with industry,Yes
+,,28,Education,Somewhat prepared,Project Management,Critical thinking,No,4,2,4,Yes,Not valuable,Mentorship,Sometimes,Every 5 years,AI/ML,Increase practical exposure,No
+,,12,Finance,Somewhat prepared,Cybersecurity,Communication,Yes,1,2,4,No,Somewhat valuable,Mentorship,Often,Every 5 years,Blockchain,Enhance soft skills training,No
+,,20,Construction,Well-prepared,Data Analysis,Communication,No,3,4,5,No,Somewhat valuable,Workshops,Sometimes,Every 5 years,Data Science,Update curriculum,No
+,,28,Healthcare,Prepared,AI/ML,Communication,Yes,4,1,2,Yes,Not valuable,Mentorship,Never,Every 5 years,IoT,Update curriculum,No
+,,17,IT,Well-prepared,Programming,Practical skills,No,2,2,3,Yes,Valuable,Workshops,Often,Every 5 years,Sustainability,Increase practical exposure,Yes
+,,7,Construction,Not prepared,Data Analysis,Communication,Yes,3,2,3,No,Valuable,Bootcamps,Often,Every year,Sustainability,Increase practical exposure,Yes
+,,30,Construction,Prepared,Programming,Industry knowledge,No,1,1,5,Yes,Highly valuable,Online courses,Rarely,Every year,Data Science,Increase practical exposure,No
+,,5,Construction,Prepared,Cybersecurity,Practical skills,No,4,3,3,Yes,Valuable,Mentorship,Often,Every year,Sustainability,Increase practical exposure,Yes
+,,2,Construction,Somewhat prepared,Networking,Industry knowledge,No,5,5,1,Yes,Valuable,Workshops,Rarely,Every year,Blockchain,Collaborate with industry,Yes
+,,9,Education,Somewhat prepared,Networking,Practical skills,No,1,3,3,Yes,Somewhat valuable,Online courses,Never,Every 5 years,IoT,Enhance soft skills training,Yes
+,,26,Manufacturing,Not prepared,Data Analysis,Practical skills,Yes,3,5,3,No,Highly valuable,Bootcamps,Often,Every 5 years,Blockchain,Enhance soft skills training,No
+,,12,IT,Prepared,Data Analysis,Communication,No,4,1,2,Yes,Valuable,Bootcamps,Often,Every year,IoT,Enhance soft skills training,No
+,,1,Education,Somewhat prepared,Project Management,Practical skills,No,2,5,3,No,Not valuable,Mentorship,Rarely,Every 2 years,IoT,Collaborate with industry,Yes
+,,22,Finance,Well-prepared,AI/ML,Industry knowledge,Yes,3,3,2,Yes,Somewhat valuable,Mentorship,Rarely,Every year,AI/ML,Collaborate with industry,No
+,,11,Finance,Prepared,Data Analysis,Critical thinking,Yes,3,1,2,Yes,Not valuable,Bootcamps,Often,Every year,AI/ML,Collaborate with industry,No
+,,18,Construction,Well-prepared,Networking,Practical skills,Yes,5,5,4,No,Somewhat valuable,Workshops,Rarely,Every year,Data Science,Update curriculum,No
+,,27,Healthcare,Not prepared,Networking,Industry knowledge,Yes,3,3,2,No,Not valuable,Bootcamps,Often,Every 2 years,Sustainability,Enhance soft skills training,Yes
+,,34,Education,Well-prepared,Data Analysis,Critical thinking,No,3,4,5,Yes,Highly valuable,Bootcamps,Sometimes,Every 2 years,IoT,Increase practical exposure,No
+,,6,IT,Somewhat prepared,Cybersecurity,Communication,No,2,2,5,Yes,Not valuable,Bootcamps,Often,Every 5 years,IoT,Increase practical exposure,No
+,,18,Finance,Prepared,Networking,Critical thinking,No,3,5,5,No,Highly valuable,Workshops,Sometimes,Every 2 years,AI/ML,Update curriculum,Yes
+,,31,Education,Well-prepared,Project Management,Communication,Yes,2,5,5,Yes,Valuable,Workshops,Rarely,Every year,Data Science,Increase practical exposure,No
+,,6,Construction,Somewhat prepared,AI/ML,Critical thinking,No,3,1,4,Yes,Somewhat valuable,Mentorship,Rarely,Every year,AI/ML,Enhance soft skills training,Yes
+,,30,Education,Well-prepared,AI/ML,Industry knowledge,Yes,2,2,2,No,Highly valuable,Workshops,Never,Every 5 years,Blockchain,Update curriculum,Yes
+,,25,Finance,Not prepared,AI/ML,Communication,Yes,4,1,4,Yes,Not valuable,Workshops,Sometimes,Every 2 years,Sustainability,Enhance soft skills training,No
+,,9,Education,Prepared,Cybersecurity,Communication,No,3,1,3,No,Highly valuable,Bootcamps,Sometimes,Every 2 years,AI/ML,Enhance soft skills training,No
+,,40,Healthcare,Not prepared,Cybersecurity,Industry knowledge,Yes,2,5,2,No,Highly valuable,Mentorship,Never,Every 5 years,Data Science,Increase practical exposure,No
+,,28,Finance,Somewhat prepared,Project Management,Industry knowledge,Yes,3,2,5,Yes,Valuable,Workshops,Often,Every 2 years,IoT,Enhance soft skills training,Yes
+,,34,Healthcare,Well-prepared,Cybersecurity,Industry knowledge,No,2,3,2,No,Highly valuable,Bootcamps,Often,Every 5 years,AI/ML,Enhance soft skills training,No
+,,28,Construction,Prepared,Cybersecurity,Critical thinking,No,1,5,3,Yes,Somewhat valuable,Bootcamps,Often,Every year,Data Science,Increase practical exposure,Yes
+,,15,Manufacturing,Well-prepared,Cybersecurity,Communication,Yes,5,2,1,Yes,Somewhat valuable,Online courses,Never,Every 5 years,Sustainability,Collaborate with industry,Yes
+,,3,Construction,Somewhat prepared,Project Management,Practical skills,Yes,2,5,2,No,Not valuable,Bootcamps,Never,Every year,Sustainability,Increase practical exposure,Yes
+,,15,Construction,Somewhat prepared,Project Management,Communication,No,2,1,1,No,Valuable,Online courses,Often,Every 5 years,Sustainability,Increase practical exposure,No
+,,37,Manufacturing,Not prepared,Cybersecurity,Communication,No,2,3,5,Yes,Valuable,Online courses,Rarely,Every 2 years,IoT,Enhance soft skills training,No
+,,12,Education,Well-prepared,Data Analysis,Communication,No,2,4,4,No,Highly valuable,Mentorship,Often,Every year,Blockchain,Update curriculum,Yes
+,,10,Education,Somewhat prepared,Cybersecurity,Critical thinking,No,4,3,3,No,Not valuable,Mentorship,Often,Every year,IoT,Increase practical exposure,Yes
+,,28,Education,Well-prepared,AI/ML,Communication,No,5,5,1,No,Highly valuable,Bootcamps,Often,Every 2 years,Blockchain,Collaborate with industry,Yes
+,,17,IT,Somewhat prepared,Data Analysis,Communication,Yes,2,3,2,No,Not valuable,Mentorship,Rarely,Every 2 years,Data Science,Enhance soft skills training,No
+,,1,Construction,Well-prepared,AI/ML,Industry knowledge,Yes,5,1,5,Yes,Somewhat valuable,Workshops,Often,Every 2 years,Data Science,Collaborate with industry,No
+,,6,Education,Well-prepared,Data Analysis,Industry knowledge,Yes,5,1,2,No,Not valuable,Online courses,Never,Every 5 years,Blockchain,Enhance soft skills training,No
+,,7,Construction,Not prepared,Project Management,Communication,No,3,5,2,No,Highly valuable,Bootcamps,Often,Every 2 years,Data Science,Collaborate with industry,Yes
+,,30,Finance,Not prepared,Networking,Communication,Yes,2,5,1,Yes,Valuable,Bootcamps,Often,Every 2 years,Sustainability,Collaborate with industry,Yes
+,,33,IT,Not prepared,Project Management,Practical skills,Yes,2,5,5,No,Not valuable,Online courses,Often,Every 2 years,Sustainability,Increase practical exposure,Yes
+,,37,Finance,Prepared,Programming,Practical skills,Yes,3,1,4,Yes,Somewhat valuable,Mentorship,Rarely,Every 2 years,Blockchain,Collaborate with industry,No
+,,33,IT,Prepared,Project Management,Industry knowledge,No,3,3,1,Yes,Somewhat valuable,Workshops,Rarely,Every year,Sustainability,Increase practical exposure,Yes
+,,10,Finance,Prepared,Cybersecurity,Industry knowledge,Yes,3,5,5,Yes,Not valuable,Mentorship,Often,Every 2 years,Sustainability,Update curriculum,Yes
+,,29,Education,Somewhat prepared,Project Management,Industry knowledge,No,3,4,2,No,Somewhat valuable,Workshops,Often,Every 5 years,IoT,Enhance soft skills training,No
+,,14,Manufacturing,Somewhat prepared,Data Analysis,Industry knowledge,Yes,5,2,4,Yes,Not valuable,Bootcamps,Often,Every 5 years,Blockchain,Update curriculum,No
+,,34,Construction,Prepared,AI/ML,Critical thinking,No,5,2,5,No,Highly valuable,Mentorship,Rarely,Every 5 years,Sustainability,Update curriculum,No
+,,29,Finance,Somewhat prepared,Cybersecurity,Communication,Yes,2,4,5,Yes,Highly valuable,Workshops,Often,Every year,IoT,Collaborate with industry,Yes
+,,11,IT,Not prepared,Cybersecurity,Industry knowledge,Yes,5,5,4,No,Highly valuable,Bootcamps,Never,Every 5 years,Blockchain,Enhance soft skills training,No
+,,7,Manufacturing,Well-prepared,Cybersecurity,Communication,No,3,4,1,Yes,Not valuable,Mentorship,Often,Every year,AI/ML,Enhance soft skills training,No
+,,30,Education,Somewhat prepared,Project Management,Practical skills,No,4,5,5,Yes,Valuable,Workshops,Rarely,Every 2 years,AI/ML,Update curriculum,No
+,,30,Education,Well-prepared,Networking,Practical skills,No,5,3,1,No,Somewhat valuable,Bootcamps,Rarely,Every year,AI/ML,Update curriculum,Yes
+,,17,Education,Well-prepared,Data Analysis,Communication,No,3,4,1,Yes,Valuable,Workshops,Rarely,Every year,Blockchain,Collaborate with industry,Yes
+,,8,Healthcare,Somewhat prepared,Data Analysis,Critical thinking,Yes,1,3,5,No,Not valuable,Workshops,Sometimes,Every year,Data Science,Increase practical exposure,No
+,,6,Education,Somewhat prepared,Programming,Practical skills,No,1,2,3,No,Not valuable,Bootcamps,Often,Every 5 years,Data Science,Enhance soft skills training,Yes
+,,18,Manufacturing,Not prepared,Data Analysis,Critical thinking,Yes,1,1,2,No,Valuable,Mentorship,Rarely,Every year,Sustainability,Enhance soft skills training,Yes
+,,3,IT,Not prepared,Data Analysis,Critical thinking,Yes,4,3,5,Yes,Somewhat valuable,Online courses,Never,Every 2 years,Blockchain,Increase practical exposure,Yes
+,,23,Manufacturing,Not prepared,Programming,Critical thinking,Yes,2,3,1,No,Valuable,Workshops,Often,Every year,IoT,Enhance soft skills training,Yes
+,,31,IT,Not prepared,AI/ML,Critical thinking,No,1,5,3,Yes,Not valuable,Workshops,Sometimes,Every 5 years,Data Science,Increase practical exposure,Yes
+,,27,IT,Somewhat prepared,Programming,Communication,No,2,5,3,No,Valuable,Workshops,Sometimes,Every 2 years,Data Science,Update curriculum,Yes
+,,18,IT,Not prepared,Programming,Critical thinking,No,3,1,1,No,Highly valuable,Mentorship,Sometimes,Every 2 years,IoT,Update curriculum,Yes
+,,14,Construction,Prepared,Programming,Communication,Yes,1,5,5,Yes,Valuable,Online courses,Often,Every year,Blockchain,Enhance soft skills training,Yes
+,,29,Education,Well-prepared,AI/ML,Communication,No,4,1,5,Yes,Not valuable,Mentorship,Rarely,Every 2 years,Blockchain,Increase practical exposure,Yes
+,,26,Finance,Well-prepared,AI/ML,Communication,Yes,5,2,3,No,Valuable,Mentorship,Rarely,Every year,Blockchain,Increase practical exposure,No
+,,40,Construction,Well-prepared,Cybersecurity,Practical skills,Yes,5,2,1,Yes,Somewhat valuable,Bootcamps,Never,Every 2 years,Data Science,Update curriculum,Yes
+,,23,IT,Prepared,Networking,Critical thinking,No,1,2,3,No,Valuable,Online courses,Sometimes,Every year,Sustainability,Enhance soft skills training,No
+,,38,IT,Not prepared,Data Analysis,Critical thinking,No,2,2,5,Yes,Valuable,Bootcamps,Often,Every 5 years,Sustainability,Update curriculum,No
+,,35,Manufacturing,Not prepared,Data Analysis,Communication,Yes,2,3,5,Yes,Valuable,Workshops,Rarely,Every 2 years,Blockchain,Increase practical exposure,No
+,,36,Manufacturing,Prepared,Networking,Communication,No,3,4,2,Yes,Valuable,Mentorship,Rarely,Every 2 years,Blockchain,Enhance soft skills training,No
+,,15,Construction,Somewhat prepared,AI/ML,Industry knowledge,No,1,3,2,Yes,Not valuable,Bootcamps,Often,Every 2 years,IoT,Update curriculum,No
+,,17,Manufacturing,Not prepared,AI/ML,Industry knowledge,No,2,2,4,No,Highly valuable,Workshops,Often,Every year,AI/ML,Update curriculum,Yes
+,,20,Finance,Not prepared,AI/ML,Communication,No,2,1,2,No,Highly valuable,Online courses,Rarely,Every year,AI/ML,Update curriculum,Yes
+,,3,Manufacturing,Somewhat prepared,Programming,Industry knowledge,Yes,5,1,4,No,Highly valuable,Online courses,Rarely,Every 2 years,Blockchain,Collaborate with industry,No
+,,23,Construction,Not prepared,Programming,Critical thinking,No,5,2,1,No,Not valuable,Workshops,Never,Every year,Sustainability,Collaborate with industry,No
+,,40,Finance,Not prepared,Data Analysis,Communication,Yes,5,3,3,No,Not valuable,Bootcamps,Never,Every 2 years,Blockchain,Update curriculum,No
+,,4,Education,Not prepared,Cybersecurity,Industry knowledge,No,1,3,3,No,Highly valuable,Workshops,Sometimes,Every year,IoT,Update curriculum,No
+,,18,Healthcare,Somewhat prepared,Networking,Critical thinking,No,2,1,5,No,Somewhat valuable,Online courses,Sometimes,Every 2 years,AI/ML,Enhance soft skills training,Yes
+,,2,Education,Prepared,Project Management,Critical thinking,Yes,3,4,2,No,Somewhat valuable,Workshops,Sometimes,Every year,Data Science,Update curriculum,Yes
+,,26,Construction,Well-prepared,Project Management,Industry knowledge,No,3,4,1,No,Not valuable,Mentorship,Often,Every 5 years,Blockchain,Collaborate with industry,Yes
+,,18,Manufacturing,Somewhat prepared,Data Analysis,Practical skills,Yes,5,3,3,No,Somewhat valuable,Online courses,Never,Every year,AI/ML,Collaborate with industry,Yes
+,,21,Construction,Somewhat prepared,AI/ML,Practical skills,No,2,2,2,No,Not valuable,Mentorship,Rarely,Every year,Sustainability,Increase practical exposure,Yes
+,,31,Construction,Well-prepared,Cybersecurity,Critical thinking,Yes,5,4,1,No,Valuable,Bootcamps,Rarely,Every 5 years,AI/ML,Enhance soft skills training,No
+,,3,Construction,Not prepared,Cybersecurity,Practical skills,No,3,4,2,Yes,Somewhat valuable,Workshops,Often,Every 2 years,Blockchain,Collaborate with industry,No
+,,21,IT,Not prepared,Networking,Industry knowledge,Yes,1,1,1,Yes,Highly valuable,Workshops,Rarely,Every 2 years,Blockchain,Enhance soft skills training,Yes
+,,3,Education,Well-prepared,Networking,Critical thinking,Yes,2,5,3,No,Somewhat valuable,Online courses,Often,Every 2 years,AI/ML,Update curriculum,No
+,,11,Manufacturing,Somewhat prepared,Cybersecurity,Critical thinking,Yes,5,5,5,No,Valuable,Mentorship,Often,Every year,Blockchain,Enhance soft skills training,No
+,,3,IT,Somewhat prepared,Cybersecurity,Practical skills,Yes,3,1,4,Yes,Highly valuable,Workshops,Never,Every year,IoT,Update curriculum,Yes
+,,24,Construction,Somewhat prepared,Networking,Critical thinking,Yes,5,5,4,Yes,Somewhat valuable,Workshops,Never,Every year,AI/ML,Collaborate with industry,Yes
+,,24,Manufacturing,Well-prepared,Cybersecurity,Industry knowledge,No,5,3,2,No,Valuable,Mentorship,Often,Every year,AI/ML,Collaborate with industry,Yes
+,,8,IT,Prepared,Networking,Critical thinking,Yes,5,5,3,No,Highly valuable,Bootcamps,Sometimes,Every 2 years,IoT,Increase practical exposure,Yes
+,,1,IT,Somewhat prepared,AI/ML,Practical skills,No,3,4,4,Yes,Highly valuable,Mentorship,Rarely,Every 5 years,Data Science,Increase practical exposure,No
+,,38,Finance,Prepared,Programming,Practical skills,Yes,4,1,1,Yes,Highly valuable,Mentorship,Often,Every 5 years,Sustainability,Increase practical exposure,No
+,,14,IT,Prepared,Project Management,Critical thinking,No,5,4,3,No,Not valuable,Online courses,Rarely,Every 5 years,Sustainability,Enhance soft skills training,Yes
+,,3,Construction,Prepared,Programming,Communication,No,3,5,1,No,Highly valuable,Bootcamps,Never,Every 5 years,Blockchain,Update curriculum,No
+,,38,Education,Not prepared,AI/ML,Communication,No,1,1,3,Yes,Somewhat valuable,Mentorship,Often,Every 5 years,AI/ML,Increase practical exposure,No
+,,26,Education,Not prepared,Programming,Critical thinking,Yes,1,1,2,Yes,Highly valuable,Mentorship,Never,Every year,Blockchain,Update curriculum,No
+,,5,IT,Not prepared,AI/ML,Practical skills,Yes,5,1,4,No,Highly valuable,Bootcamps,Often,Every 5 years,Blockchain,Enhance soft skills training,Yes
+,,36,Manufacturing,Somewhat prepared,AI/ML,Industry knowledge,No,3,4,5,No,Highly valuable,Mentorship,Often,Every 5 years,Sustainability,Enhance soft skills training,No
+,,26,Finance,Not prepared,Cybersecurity,Communication,Yes,3,2,3,Yes,Highly valuable,Online courses,Rarely,Every 2 years,IoT,Enhance soft skills training,No
+,,5,Construction,Somewhat prepared,AI/ML,Practical skills,Yes,2,4,3,Yes,Somewhat valuable,Workshops,Often,Every 5 years,Data Science,Update curriculum,Yes
+,,8,Finance,Somewhat prepared,Cybersecurity,Practical skills,No,1,3,2,No,Not valuable,Bootcamps,Often,Every 5 years,IoT,Enhance soft skills training,No
+,,14,Finance,Somewhat prepared,Data Analysis,Communication,No,3,3,1,Yes,Not valuable,Online courses,Never,Every 2 years,IoT,Update curriculum,Yes
+,,18,Construction,Not prepared,Data Analysis,Practical skills,Yes,4,4,3,Yes,Highly valuable,Mentorship,Never,Every 5 years,Sustainability,Increase practical exposure,No
+,,39,Finance,Somewhat prepared,Cybersecurity,Critical thinking,No,5,2,5,No,Somewhat valuable,Mentorship,Rarely,Every 5 years,AI/ML,Collaborate with industry,No
+,,24,Manufacturing,Somewhat prepared,Programming,Industry knowledge,Yes,3,1,5,No,Not valuable,Online courses,Never,Every 2 years,Blockchain,Update curriculum,No
+,,12,Manufacturing,Not prepared,AI/ML,Practical skills,No,2,3,3,Yes,Valuable,Online courses,Never,Every year,Sustainability,Increase practical exposure,Yes
+,,24,IT,Prepared,Programming,Practical skills,No,4,1,1,No,Not valuable,Workshops,Never,Every 2 years,IoT,Increase practical exposure,No
+,,13,Education,Prepared,Networking,Industry knowledge,Yes,1,3,2,Yes,Highly valuable,Workshops,Rarely,Every 2 years,Sustainability,Increase practical exposure,No
+,,30,Construction,Not prepared,Cybersecurity,Communication,No,4,3,2,No,Highly valuable,Online courses,Never,Every 5 years,Sustainability,Increase practical exposure,Yes
+,,38,Finance,Prepared,AI/ML,Industry knowledge,No,4,3,3,Yes,Not valuable,Mentorship,Never,Every 2 years,Data Science,Update curriculum,Yes
+,,17,Finance,Somewhat prepared,Programming,Communication,No,5,4,4,No,Not valuable,Online courses,Never,Every year,Sustainability,Increase practical exposure,Yes
+,,24,Healthcare,Not prepared,Cybersecurity,Industry knowledge,No,5,5,2,No,Valuable,Bootcamps,Sometimes,Every year,AI/ML,Update curriculum,Yes
+,,9,Healthcare,Prepared,Data Analysis,Practical skills,No,5,5,3,No,Highly valuable,Mentorship,Never,Every year,Sustainability,Collaborate with industry,No
+,,16,Construction,Well-prepared,Project Management,Communication,No,4,3,5,Yes,Valuable,Mentorship,Rarely,Every 2 years,AI/ML,Enhance soft skills training,No
+,,37,Finance,Somewhat prepared,Networking,Critical thinking,No,1,5,4,Yes,Somewhat valuable,Mentorship,Sometimes,Every year,Blockchain,Increase practical exposure,No
+,,7,IT,Not prepared,Programming,Practical skills,No,3,2,1,Yes,Valuable,Mentorship,Sometimes,Every 2 years,Blockchain,Collaborate with industry,Yes
+,,15,Construction,Somewhat prepared,Networking,Critical thinking,Yes,3,1,5,No,Somewhat valuable,Mentorship,Rarely,Every 5 years,Data Science,Enhance soft skills training,No
+,,11,IT,Prepared,Project Management,Practical skills,No,3,3,3,Yes,Not valuable,Online courses,Rarely,Every year,Sustainability,Collaborate with industry,Yes
+,,10,IT,Somewhat prepared,AI/ML,Communication,Yes,1,2,1,No,Not valuable,Online courses,Rarely,Every 2 years,IoT,Collaborate with industry,No
+,,29,Manufacturing,Prepared,Data Analysis,Critical thinking,No,2,1,2,No,Not valuable,Bootcamps,Never,Every 5 years,IoT,Increase practical exposure,No
+,,24,Manufacturing,Well-prepared,Data Analysis,Critical thinking,No,5,1,1,No,Somewhat valuable,Mentorship,Sometimes,Every 2 years,Data Science,Collaborate with industry,Yes
+,,25,Education,Somewhat prepared,Project Management,Communication,Yes,5,4,4,No,Somewhat valuable,Mentorship,Rarely,Every 2 years,Data Science,Update curriculum,No
+,,16,Construction,Prepared,Programming,Critical thinking,Yes,3,2,4,No,Highly valuable,Workshops,Often,Every year,Data Science,Enhance soft skills training,Yes
+,,32,IT,Not prepared,AI/ML,Practical skills,Yes,3,3,5,No,Valuable,Bootcamps,Rarely,Every year,Sustainability,Collaborate with industry,Yes
+,,14,Education,Somewhat prepared,Programming,Critical thinking,No,1,4,4,No,Somewhat valuable,Workshops,Rarely,Every 5 years,AI/ML,Collaborate with industry,Yes
+,,4,Manufacturing,Somewhat prepared,Project Management,Critical thinking,Yes,2,2,4,No,Valuable,Online courses,Rarely,Every year,Sustainability,Update curriculum,Yes
+,,39,Education,Somewhat prepared,Programming,Practical skills,No,4,5,1,No,Not valuable,Online courses,Sometimes,Every 5 years,AI/ML,Enhance soft skills training,Yes
+,,29,Healthcare,Prepared,Project Management,Industry knowledge,Yes,4,5,2,No,Somewhat valuable,Mentorship,Never,Every 2 years,Data Science,Update curriculum,No
+,,25,Manufacturing,Somewhat prepared,Project Management,Industry knowledge,Yes,1,3,1,Yes,Somewhat valuable,Online courses,Never,Every 2 years,Blockchain,Enhance soft skills training,Yes
+,,13,Healthcare,Well-prepared,Data Analysis,Industry knowledge,Yes,4,2,3,Yes,Valuable,Mentorship,Sometimes,Every year,IoT,Enhance soft skills training,No
+,,14,Construction,Prepared,Networking,Practical skills,Yes,3,3,3,Yes,Not valuable,Workshops,Often,Every year,IoT,Update curriculum,No
+,,33,Manufacturing,Not prepared,AI/ML,Critical thinking,No,2,3,4,No,Not valuable,Online courses,Sometimes,Every 2 years,Data Science,Collaborate with industry,Yes
+,,12,Education,Well-prepared,AI/ML,Critical thinking,No,1,5,5,No,Somewhat valuable,Workshops,Rarely,Every 5 years,Sustainability,Update curriculum,No
+,,22,IT,Prepared,Data Analysis,Communication,Yes,2,4,2,Yes,Somewhat valuable,Workshops,Rarely,Every year,IoT,Update curriculum,No
+,,11,Finance,Prepared,AI/ML,Industry knowledge,Yes,3,2,3,Yes,Not valuable,Workshops,Never,Every 5 years,IoT,Increase practical exposure,Yes
+,,23,Education,Well-prepared,Project Management,Industry knowledge,No,2,4,1,Yes,Somewhat valuable,Online courses,Never,Every 2 years,AI/ML,Increase practical exposure,No
+,,2,Finance,Somewhat prepared,Data Analysis,Critical thinking,No,3,3,4,Yes,Not valuable,Online courses,Rarely,Every 5 years,Data Science,Collaborate with industry,Yes
+,,24,Finance,Prepared,Cybersecurity,Practical skills,Yes,5,1,1,Yes,Valuable,Workshops,Often,Every year,Sustainability,Collaborate with industry,No
+,,16,Manufacturing,Not prepared,Data Analysis,Communication,No,3,3,2,Yes,Not valuable,Bootcamps,Often,Every year,AI/ML,Enhance soft skills training,Yes
+,,15,Finance,Not prepared,Cybersecurity,Practical skills,No,3,3,1,Yes,Valuable,Bootcamps,Often,Every year,Data Science,Increase practical exposure,No
+,,39,Construction,Well-prepared,Project Management,Practical skills,No,5,2,1,Yes,Somewhat valuable,Online courses,Rarely,Every year,AI/ML,Enhance soft skills training,Yes
+,,16,IT,Somewhat prepared,AI/ML,Critical thinking,Yes,1,2,5,No,Highly valuable,Mentorship,Rarely,Every 2 years,Blockchain,Enhance soft skills training,Yes
+,,3,Finance,Well-prepared,Networking,Communication,Yes,2,2,4,No,Highly valuable,Bootcamps,Sometimes,Every year,AI/ML,Increase practical exposure,No
+,,1,Healthcare,Prepared,AI/ML,Industry knowledge,Yes,1,3,4,No,Highly valuable,Mentorship,Never,Every year,Sustainability,Update curriculum,No
+,,26,Construction,Somewhat prepared,Project Management,Critical thinking,Yes,3,3,4,Yes,Highly valuable,Bootcamps,Rarely,Every year,IoT,Update curriculum,No
+,,12,IT,Prepared,Programming,Industry knowledge,No,1,1,1,No,Somewhat valuable,Mentorship,Rarely,Every 5 years,Data Science,Increase practical exposure,No
+,,5,IT,Not prepared,Cybersecurity,Industry knowledge,No,1,2,2,No,Not valuable,Mentorship,Rarely,Every 2 years,Data Science,Update curriculum,No
+,,40,IT,Prepared,Programming,Practical skills,Yes,3,3,5,No,Valuable,Workshops,Never,Every 5 years,Sustainability,Update curriculum,No
+,,36,Manufacturing,Prepared,AI/ML,Critical thinking,No,5,3,1,Yes,Not valuable,Bootcamps,Never,Every 2 years,Blockchain,Increase practical exposure,Yes
+,,6,Healthcare,Prepared,Project Management,Practical skills,No,1,3,4,No,Somewhat valuable,Bootcamps,Often,Every 2 years,Sustainability,Collaborate with industry,Yes
+,,9,Finance,Somewhat prepared,Cybersecurity,Communication,No,3,5,5,No,Not valuable,Bootcamps,Never,Every year,Data Science,Enhance soft skills training,Yes
+,,39,Construction,Prepared,Cybersecurity,Communication,No,1,5,4,Yes,Not valuable,Bootcamps,Never,Every 2 years,AI/ML,Update curriculum,No
+,,6,Education,Prepared,AI/ML,Practical skills,No,1,5,5,No,Somewhat valuable,Online courses,Rarely,Every year,IoT,Increase practical exposure,No
+,,23,Construction,Not prepared,AI/ML,Industry knowledge,Yes,2,4,1,Yes,Valuable,Online courses,Never,Every year,IoT,Enhance soft skills training,No
+,,20,Construction,Somewhat prepared,Programming,Communication,Yes,4,5,3,Yes,Valuable,Bootcamps,Rarely,Every year,IoT,Enhance soft skills training,No
+,,6,Manufacturing,Prepared,AI/ML,Communication,No,5,1,1,Yes,Valuable,Online courses,Rarely,Every 2 years,Data Science,Enhance soft skills training,Yes
+,,5,IT,Prepared,Data Analysis,Communication,No,3,2,5,No,Highly valuable,Bootcamps,Often,Every year,Blockchain,Collaborate with industry,No
+,,19,Healthcare,Well-prepared,Project Management,Practical skills,Yes,2,5,1,Yes,Highly valuable,Bootcamps,Never,Every year,Blockchain,Collaborate with industry,Yes
+,,7,Construction,Somewhat prepared,Cybersecurity,Communication,Yes,3,1,5,Yes,Somewhat valuable,Workshops,Rarely,Every 5 years,Blockchain,Update curriculum,No
+,,16,Manufacturing,Somewhat prepared,AI/ML,Critical thinking,Yes,2,1,4,No,Valuable,Workshops,Rarely,Every 5 years,IoT,Collaborate with industry,No
+,,34,Healthcare,Somewhat prepared,Project Management,Practical skills,Yes,1,2,5,Yes,Somewhat valuable,Mentorship,Never,Every 5 years,AI/ML,Collaborate with industry,No
+,,6,Manufacturing,Not prepared,AI/ML,Practical skills,No,1,1,5,Yes,Not valuable,Online courses,Sometimes,Every 2 years,Blockchain,Enhance soft skills training,Yes
+,,33,Finance,Well-prepared,Data Analysis,Practical skills,No,2,4,1,Yes,Highly valuable,Bootcamps,Never,Every 5 years,Sustainability,Update curriculum,Yes
+,,20,Education,Prepared,Programming,Communication,Yes,2,5,3,No,Somewhat valuable,Mentorship,Rarely,Every year,Sustainability,Collaborate with industry,No
+,,31,Finance,Somewhat prepared,Cybersecurity,Industry knowledge,Yes,2,2,4,Yes,Somewhat valuable,Mentorship,Often,Every 2 years,Data Science,Increase practical exposure,Yes
+,,18,Healthcare,Somewhat prepared,Networking,Critical thinking,No,3,3,3,No,Valuable,Online courses,Never,Every year,Blockchain,Update curriculum,Yes
+,,34,Healthcare,Well-prepared,Cybersecurity,Industry knowledge,No,2,1,2,No,Valuable,Workshops,Rarely,Every 2 years,Blockchain,Update curriculum,Yes
+,,15,Healthcare,Prepared,Networking,Practical skills,No,2,5,3,No,Valuable,Online courses,Rarely,Every year,Sustainability,Enhance soft skills training,Yes
+,,14,Education,Well-prepared,Networking,Practical skills,No,3,3,2,No,Not valuable,Workshops,Often,Every 2 years,IoT,Update curriculum,Yes
+,,29,IT,Well-prepared,Data Analysis,Critical thinking,Yes,3,2,4,No,Valuable,Mentorship,Never,Every 2 years,Blockchain,Collaborate with industry,No
+,,13,Construction,Well-prepared,Cybersecurity,Practical skills,Yes,3,5,1,Yes,Highly valuable,Mentorship,Never,Every 2 years,Sustainability,Enhance soft skills training,Yes
+,,39,Healthcare,Somewhat prepared,Project Management,Communication,No,2,4,2,No,Valuable,Online courses,Rarely,Every 5 years,Data Science,Collaborate with industry,Yes
+,,38,Finance,Not prepared,Data Analysis,Industry knowledge,Yes,5,4,1,Yes,Not valuable,Workshops,Often,Every 2 years,Blockchain,Collaborate with industry,No
+,,15,Finance,Prepared,Networking,Critical thinking,Yes,1,2,4,No,Not valuable,Bootcamps,Sometimes,Every year,Data Science,Enhance soft skills training,No
+,,13,IT,Somewhat prepared,Cybersecurity,Critical thinking,No,2,4,5,No,Highly valuable,Workshops,Sometimes,Every 2 years,Data Science,Enhance soft skills training,Yes
+,,14,Education,Well-prepared,Project Management,Industry knowledge,Yes,5,3,4,Yes,Not valuable,Bootcamps,Never,Every 5 years,AI/ML,Collaborate with industry,No
+,,26,Healthcare,Somewhat prepared,AI/ML,Communication,Yes,5,1,3,Yes,Not valuable,Online courses,Rarely,Every 2 years,IoT,Update curriculum,No
+,,9,Construction,Somewhat prepared,Programming,Practical skills,No,2,2,5,No,Not valuable,Workshops,Rarely,Every 5 years,Sustainability,Collaborate with industry,Yes
+,,14,IT,Somewhat prepared,Project Management,Industry knowledge,Yes,2,2,2,Yes,Not valuable,Online courses,Never,Every 2 years,Data Science,Collaborate with industry,No
+,,25,Education,Prepared,Project Management,Critical thinking,No,1,1,2,Yes,Valuable,Bootcamps,Often,Every 5 years,Sustainability,Update curriculum,No
+,,18,Finance,Prepared,Data Analysis,Practical skills,No,1,1,5,Yes,Highly valuable,Online courses,Rarely,Every year,Data Science,Increase practical exposure,Yes
+,,7,Healthcare,Not prepared,Networking,Industry knowledge,No,5,1,5,Yes,Not valuable,Online courses,Never,Every 2 years,AI/ML,Collaborate with industry,Yes
+,,32,Finance,Somewhat prepared,Programming,Critical thinking,Yes,5,1,3,No,Not valuable,Mentorship,Often,Every 2 years,Blockchain,Increase practical exposure,No
+,,32,Construction,Well-prepared,AI/ML,Critical thinking,Yes,1,5,3,No,Not valuable,Workshops,Often,Every 2 years,Blockchain,Update curriculum,Yes

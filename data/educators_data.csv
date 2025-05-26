@@ -1,0 +1,251 @@
+Timestamp,Name (Optional),Role/Title,Years of Teaching Experience,Department/Field of Study,How well do you believe the current curriculum aligns with industry requirements?,What are the most critical learning outcomes that you believe should be emphasized in your program?,How often do you seek input from industry professionals when designing or updating the curriculum?,Which teaching methods do you primarily use in your courses?,How engaged do you feel students are with the course material?,Do you incorporate real-world scenarios or practical experiences into your teaching?,What are the most common knowledge gaps you observe in students entering your courses?,What resources or support do you provide to help students who are struggling to meet course objectives?,Does your institution have partnerships with industry organizations to enhance the educational experience?,How often do you review and update your courses to ensure they remain relevant?,Which emerging trends do you believe should be incorporated into the curriculum to better prepare students for the industry?,How important is it for students to engage in continuous learning and professional development after graduation?,Would you recommend making changes to align academic curricula with industry needs?
+,,Professor,6,Civil Engineering,Highly aligned,Technical proficiency,Sometimes,Workshops,Engaged,No,Practical skills,Mentoring,Yes,Rarely,Data Analytics,Not important,Not sure
+,,Assistant Professor,30,Civil Engineering,Not at all,Technical proficiency,Rarely,Lectures,Highly engaged,Yes,Communication,Extra classes,No,Often,Blockchain,Highly important,Yes
+,,Professor,26,Civil Engineering,Somewhat,Critical thinking,Often,Project-based learning,Somewhat engaged,No,Industry knowledge,Extra classes,Yes,Often,Blockchain,Highly important,No
+,,Lecturer,16,Civil Engineering,Not at all,Technical proficiency,Sometimes,Workshops,Not engaged,Yes,Basic concepts,Online resources,Yes,Never,Data Analytics,Somewhat important,Yes
+,,Associate Professor,8,Computer Science,Well aligned,Teamwork,Sometimes,Project-based learning,Engaged,Yes,Practical skills,Extra classes,Yes,Sometimes,Blockchain,Somewhat important,Not sure
+,,Assistant Professor,30,Electrical Engineering,Highly aligned,Teamwork,Never,Workshops,Somewhat engaged,Sometimes,Basic concepts,Online resources,Yes,Never,AI/ML,Not important,Yes
+,,Professor,8,Computer Science,Well aligned,Problem-solving,Rarely,Workshops,Highly engaged,Yes,Industry knowledge,Extra classes,No,Rarely,Data Analytics,Not important,Yes
+,,Professor,14,Civil Engineering,Highly aligned,Teamwork,Never,Lectures,Somewhat engaged,No,Basic concepts,Online resources,No,Never,AI/ML,Not important,Not sure
+,,Professor,11,Mechanical Engineering,Well aligned,Critical thinking,Sometimes,Case studies,Somewhat engaged,Yes,Communication,Online resources,No,Sometimes,Data Analytics,Highly important,Not sure
+,,Assistant Professor,34,Mechanical Engineering,Somewhat,Critical thinking,Rarely,Lectures,Somewhat engaged,Yes,Industry knowledge,Practical labs,No,Never,Blockchain,Highly important,No
+,,Assistant Professor,25,Computer Science,Well aligned,Teamwork,Never,Workshops,Somewhat engaged,Yes,Industry knowledge,Practical labs,No,Never,Blockchain,Highly important,No
+,,Professor,21,Electrical Engineering,Highly aligned,Critical thinking,Never,Lectures,Somewhat engaged,No,Industry knowledge,Online resources,Not sure,Never,Blockchain,Somewhat important,Not sure
+,,Lecturer,10,Civil Engineering,Not at all,Critical thinking,Never,Project-based learning,Somewhat engaged,Yes,Industry knowledge,Mentoring,Not sure,Often,Data Analytics,Somewhat important,Not sure
+,,Lecturer,7,IT,Highly aligned,Technical proficiency,Often,Case studies,Somewhat engaged,No,Industry knowledge,Mentoring,Yes,Sometimes,AI/ML,Important,Yes
+,,Assistant Professor,1,Civil Engineering,Somewhat,Teamwork,Sometimes,Workshops,Not engaged,No,Industry knowledge,Practical labs,Not sure,Often,Green Energy,Highly important,Not sure
+,,Lecturer,38,Civil Engineering,Highly aligned,Technical proficiency,Rarely,Workshops,Somewhat engaged,No,Practical skills,Mentoring,Yes,Sometimes,Data Analytics,Important,Yes
+,,Assistant Professor,30,Electrical Engineering,Somewhat,Critical thinking,Often,Case studies,Somewhat engaged,No,Practical skills,Online resources,No,Often,AI/ML,Highly important,Yes
+,,Associate Professor,32,Electrical Engineering,Well aligned,Teamwork,Never,Case studies,Not engaged,No,Industry knowledge,Mentoring,Not sure,Often,Blockchain,Somewhat important,No
+,,Professor,36,IT,Highly aligned,Technical proficiency,Often,Case studies,Not engaged,Sometimes,Industry knowledge,Practical labs,Yes,Rarely,AI/ML,Not important,No
+,,Lecturer,16,Computer Science,Highly aligned,Technical proficiency,Often,Project-based learning,Highly engaged,No,Practical skills,Online resources,Not sure,Often,Blockchain,Important,Yes
+,,Professor,4,Civil Engineering,Somewhat,Critical thinking,Never,Case studies,Highly engaged,Sometimes,Industry knowledge,Online resources,Not sure,Sometimes,Green Energy,Highly important,Yes
+,,Associate Professor,38,Computer Science,Somewhat,Technical proficiency,Sometimes,Case studies,Not engaged,No,Communication,Extra classes,Not sure,Rarely,AI/ML,Not important,No
+,,Associate Professor,16,Mechanical Engineering,Not at all,Teamwork,Often,Lectures,Not engaged,Yes,Basic concepts,Practical labs,Not sure,Sometimes,AI/ML,Important,Not sure
+,,Associate Professor,17,Electrical Engineering,Somewhat,Critical thinking,Often,Workshops,Highly engaged,Yes,Industry knowledge,Practical labs,No,Rarely,Data Analytics,Not important,Not sure
+,,Assistant Professor,35,Mechanical Engineering,Highly aligned,Technical proficiency,Sometimes,Lectures,Highly engaged,Sometimes,Basic concepts,Practical labs,No,Often,Blockchain,Somewhat important,No
+,,Lecturer,15,Electrical Engineering,Highly aligned,Critical thinking,Often,Case studies,Highly engaged,Yes,Industry knowledge,Mentoring,Yes,Sometimes,Green Energy,Somewhat important,No
+,,Assistant Professor,27,IT,Well aligned,Technical proficiency,Sometimes,Lectures,Engaged,No,Basic concepts,Practical labs,No,Never,Blockchain,Important,No
+,,Assistant Professor,6,IT,Well aligned,Problem-solving,Sometimes,Workshops,Not engaged,No,Industry knowledge,Extra classes,Yes,Sometimes,Data Analytics,Somewhat important,No
+,,Lecturer,14,Civil Engineering,Well aligned,Problem-solving,Sometimes,Case studies,Somewhat engaged,Sometimes,Industry knowledge,Mentoring,No,Often,Blockchain,Important,No
+,,Associate Professor,39,Electrical Engineering,Not at all,Problem-solving,Sometimes,Workshops,Engaged,Yes,Communication,Online resources,No,Often,AI/ML,Important,No
+,,Professor,26,Civil Engineering,Not at all,Technical proficiency,Rarely,Workshops,Somewhat engaged,No,Communication,Mentoring,No,Sometimes,Green Energy,Highly important,Not sure
+,,Assistant Professor,5,Civil Engineering,Highly aligned,Problem-solving,Often,Lectures,Not engaged,Sometimes,Communication,Online resources,No,Sometimes,Blockchain,Not important,No
+,,Professor,23,IT,Well aligned,Critical thinking,Never,Workshops,Somewhat engaged,Sometimes,Basic concepts,Online resources,No,Sometimes,AI/ML,Important,Not sure
+,,Professor,31,Mechanical Engineering,Somewhat,Problem-solving,Sometimes,Lectures,Somewhat engaged,No,Industry knowledge,Mentoring,No,Never,AI/ML,Somewhat important,No
+,,Assistant Professor,40,Computer Science,Not at all,Technical proficiency,Often,Lectures,Somewhat engaged,No,Basic concepts,Extra classes,Not sure,Sometimes,Green Energy,Highly important,Yes
+,,Associate Professor,15,Electrical Engineering,Highly aligned,Technical proficiency,Rarely,Workshops,Somewhat engaged,No,Communication,Mentoring,Not sure,Never,AI/ML,Somewhat important,Not sure
+,,Lecturer,13,IT,Somewhat,Technical proficiency,Often,Project-based learning,Engaged,Sometimes,Practical skills,Extra classes,No,Rarely,AI/ML,Not important,Not sure
+,,Lecturer,39,Civil Engineering,Somewhat,Teamwork,Sometimes,Workshops,Not engaged,Yes,Practical skills,Online resources,Not sure,Rarely,Data Analytics,Highly important,No
+,,Assistant Professor,1,Civil Engineering,Not at all,Problem-solving,Rarely,Project-based learning,Not engaged,No,Practical skills,Mentoring,Not sure,Rarely,AI/ML,Important,No
+,,Professor,36,Civil Engineering,Not at all,Teamwork,Often,Case studies,Engaged,Yes,Communication,Online resources,Not sure,Often,Green Energy,Highly important,Not sure
+,,Lecturer,28,Mechanical Engineering,Not at all,Technical proficiency,Rarely,Case studies,Engaged,Yes,Basic concepts,Online resources,No,Never,AI/ML,Highly important,Not sure
+,,Associate Professor,36,Computer Science,Somewhat,Teamwork,Rarely,Project-based learning,Not engaged,Yes,Practical skills,Online resources,No,Often,Green Energy,Important,Not sure
+,,Associate Professor,13,Civil Engineering,Highly aligned,Technical proficiency,Never,Project-based learning,Not engaged,Sometimes,Industry knowledge,Mentoring,Not sure,Rarely,Data Analytics,Somewhat important,Not sure
+,,Lecturer,7,Computer Science,Highly aligned,Technical proficiency,Sometimes,Case studies,Engaged,Yes,Industry knowledge,Online resources,Not sure,Often,Data Analytics,Somewhat important,No
+,,Professor,38,Electrical Engineering,Highly aligned,Critical thinking,Often,Project-based learning,Highly engaged,No,Practical skills,Extra classes,No,Sometimes,Data Analytics,Somewhat important,Not sure
+,,Associate Professor,30,Computer Science,Somewhat,Teamwork,Never,Lectures,Somewhat engaged,No,Communication,Mentoring,Yes,Rarely,Green Energy,Not important,Yes
+,,Assistant Professor,18,Computer Science,Not at all,Teamwork,Rarely,Project-based learning,Highly engaged,No,Industry knowledge,Mentoring,Yes,Often,Data Analytics,Not important,Not sure
+,,Lecturer,30,Computer Science,Not at all,Problem-solving,Often,Case studies,Somewhat engaged,Sometimes,Practical skills,Practical labs,No,Sometimes,Green Energy,Important,No
+,,Associate Professor,16,IT,Highly aligned,Critical thinking,Often,Lectures,Not engaged,Sometimes,Practical skills,Online resources,No,Sometimes,Blockchain,Not important,Not sure
+,,Professor,12,Electrical Engineering,Somewhat,Problem-solving,Never,Project-based learning,Somewhat engaged,No,Industry knowledge,Online resources,Not sure,Rarely,AI/ML,Not important,Yes
+,,Associate Professor,15,Electrical Engineering,Well aligned,Technical proficiency,Sometimes,Case studies,Engaged,Sometimes,Communication,Extra classes,Not sure,Sometimes,Green Energy,Somewhat important,Not sure
+,,Lecturer,5,Computer Science,Somewhat,Problem-solving,Rarely,Case studies,Highly engaged,Yes,Industry knowledge,Practical labs,No,Often,AI/ML,Highly important,Not sure
+,,Assistant Professor,30,Electrical Engineering,Highly aligned,Problem-solving,Never,Lectures,Somewhat engaged,Yes,Basic concepts,Mentoring,No,Often,Blockchain,Important,Not sure
+,,Professor,17,Computer Science,Not at all,Teamwork,Never,Project-based learning,Not engaged,No,Basic concepts,Online resources,No,Often,Blockchain,Highly important,Yes
+,,Professor,15,Mechanical Engineering,Well aligned,Problem-solving,Never,Case studies,Highly engaged,Sometimes,Communication,Extra classes,Yes,Never,Green Energy,Not important,No
+,,Lecturer,20,Electrical Engineering,Well aligned,Problem-solving,Never,Lectures,Engaged,Yes,Practical skills,Extra classes,Yes,Never,Blockchain,Somewhat important,No
+,,Professor,10,IT,Not at all,Problem-solving,Never,Case studies,Somewhat engaged,Yes,Practical skills,Practical labs,Yes,Rarely,Green Energy,Not important,Not sure
+,,Associate Professor,4,Computer Science,Highly aligned,Problem-solving,Sometimes,Workshops,Not engaged,Yes,Industry knowledge,Mentoring,No,Never,Data Analytics,Not important,No
+,,Lecturer,35,Electrical Engineering,Somewhat,Teamwork,Sometimes,Case studies,Somewhat engaged,Sometimes,Industry knowledge,Practical labs,Not sure,Often,Data Analytics,Not important,Yes
+,,Lecturer,1,IT,Highly aligned,Teamwork,Often,Case studies,Not engaged,Yes,Communication,Online resources,Yes,Sometimes,AI/ML,Important,Yes
+,,Assistant Professor,10,Mechanical Engineering,Highly aligned,Critical thinking,Sometimes,Case studies,Engaged,Yes,Industry knowledge,Online resources,Yes,Never,Data Analytics,Important,Yes
+,,Lecturer,4,IT,Somewhat,Teamwork,Often,Project-based learning,Somewhat engaged,Yes,Communication,Practical labs,No,Often,Blockchain,Highly important,Yes
+,,Assistant Professor,6,Civil Engineering,Somewhat,Critical thinking,Sometimes,Project-based learning,Not engaged,Yes,Basic concepts,Online resources,Not sure,Never,Blockchain,Not important,No
+,,Associate Professor,30,Mechanical Engineering,Well aligned,Technical proficiency,Sometimes,Lectures,Not engaged,No,Basic concepts,Mentoring,No,Rarely,Green Energy,Important,Not sure
+,,Lecturer,13,IT,Somewhat,Critical thinking,Never,Workshops,Highly engaged,Yes,Communication,Extra classes,Yes,Rarely,AI/ML,Highly important,No
+,,Assistant Professor,6,Computer Science,Not at all,Teamwork,Rarely,Project-based learning,Highly engaged,No,Practical skills,Mentoring,Yes,Never,Data Analytics,Not important,No
+,,Assistant Professor,27,Civil Engineering,Highly aligned,Teamwork,Sometimes,Lectures,Not engaged,Yes,Basic concepts,Mentoring,Yes,Never,Green Energy,Highly important,No
+,,Lecturer,36,Electrical Engineering,Not at all,Teamwork,Often,Workshops,Engaged,No,Communication,Extra classes,Yes,Never,Green Energy,Highly important,Yes
+,,Associate Professor,4,Electrical Engineering,Somewhat,Problem-solving,Often,Lectures,Highly engaged,No,Basic concepts,Extra classes,Not sure,Never,Green Energy,Highly important,Yes
+,,Lecturer,22,Computer Science,Highly aligned,Critical thinking,Often,Project-based learning,Not engaged,No,Communication,Practical labs,Yes,Sometimes,Green Energy,Not important,Yes
+,,Assistant Professor,15,Electrical Engineering,Well aligned,Technical proficiency,Often,Lectures,Somewhat engaged,Yes,Practical skills,Mentoring,No,Never,Green Energy,Not important,Not sure
+,,Lecturer,16,Electrical Engineering,Not at all,Teamwork,Rarely,Lectures,Somewhat engaged,No,Basic concepts,Practical labs,Not sure,Sometimes,Data Analytics,Important,No
+,,Assistant Professor,27,Electrical Engineering,Well aligned,Critical thinking,Sometimes,Project-based learning,Somewhat engaged,Sometimes,Practical skills,Extra classes,Yes,Often,Green Energy,Not important,No
+,,Lecturer,27,Electrical Engineering,Somewhat,Teamwork,Often,Lectures,Not engaged,No,Practical skills,Online resources,No,Never,AI/ML,Not important,Yes
+,,Lecturer,19,Computer Science,Somewhat,Problem-solving,Sometimes,Project-based learning,Not engaged,Yes,Industry knowledge,Online resources,Not sure,Rarely,Green Energy,Somewhat important,Yes
+,,Lecturer,36,Mechanical Engineering,Highly aligned,Technical proficiency,Rarely,Case studies,Highly engaged,No,Communication,Extra classes,Yes,Often,AI/ML,Somewhat important,Not sure
+,,Assistant Professor,21,Mechanical Engineering,Highly aligned,Critical thinking,Rarely,Workshops,Highly engaged,No,Communication,Practical labs,Not sure,Often,AI/ML,Important,Yes
+,,Lecturer,26,IT,Somewhat,Problem-solving,Never,Lectures,Somewhat engaged,Sometimes,Practical skills,Practical labs,No,Never,AI/ML,Not important,Yes
+,,Lecturer,3,Civil Engineering,Not at all,Technical proficiency,Rarely,Lectures,Somewhat engaged,Sometimes,Practical skills,Practical labs,Not sure,Sometimes,Green Energy,Important,No
+,,Assistant Professor,8,Computer Science,Highly aligned,Technical proficiency,Sometimes,Case studies,Not engaged,Yes,Communication,Extra classes,No,Sometimes,AI/ML,Important,Not sure
+,,Professor,19,Civil Engineering,Well aligned,Technical proficiency,Rarely,Project-based learning,Somewhat engaged,Yes,Industry knowledge,Online resources,Not sure,Rarely,Green Energy,Highly important,No
+,,Assistant Professor,25,IT,Well aligned,Problem-solving,Often,Lectures,Engaged,No,Communication,Mentoring,Yes,Rarely,Green Energy,Not important,Not sure
+,,Lecturer,32,Civil Engineering,Somewhat,Problem-solving,Sometimes,Workshops,Somewhat engaged,No,Industry knowledge,Extra classes,Not sure,Never,AI/ML,Highly important,Not sure
+,,Assistant Professor,40,IT,Somewhat,Teamwork,Rarely,Project-based learning,Not engaged,No,Basic concepts,Mentoring,Not sure,Rarely,Green Energy,Important,Yes
+,,Professor,3,Civil Engineering,Somewhat,Technical proficiency,Rarely,Lectures,Somewhat engaged,No,Industry knowledge,Mentoring,No,Never,Data Analytics,Somewhat important,Not sure
+,,Lecturer,17,Mechanical Engineering,Somewhat,Critical thinking,Often,Case studies,Engaged,No,Practical skills,Practical labs,Not sure,Sometimes,Data Analytics,Somewhat important,Not sure
+,,Associate Professor,20,IT,Not at all,Technical proficiency,Often,Workshops,Highly engaged,Sometimes,Industry knowledge,Online resources,Not sure,Never,Green Energy,Highly important,Yes
+,,Associate Professor,1,Civil Engineering,Not at all,Technical proficiency,Never,Workshops,Highly engaged,No,Communication,Extra classes,Yes,Often,AI/ML,Not important,No
+,,Lecturer,17,Computer Science,Not at all,Problem-solving,Never,Project-based learning,Engaged,No,Industry knowledge,Online resources,No,Never,AI/ML,Somewhat important,Not sure
+,,Professor,30,Electrical Engineering,Highly aligned,Problem-solving,Often,Project-based learning,Engaged,Yes,Basic concepts,Mentoring,Yes,Never,AI/ML,Highly important,Yes
+,,Lecturer,40,Electrical Engineering,Well aligned,Teamwork,Sometimes,Workshops,Highly engaged,Sometimes,Industry knowledge,Online resources,No,Never,Data Analytics,Somewhat important,Not sure
+,,Lecturer,30,Electrical Engineering,Somewhat,Problem-solving,Rarely,Lectures,Engaged,No,Basic concepts,Online resources,Yes,Often,Blockchain,Somewhat important,No
+,,Lecturer,33,Electrical Engineering,Highly aligned,Critical thinking,Rarely,Workshops,Not engaged,No,Communication,Extra classes,Yes,Never,Green Energy,Somewhat important,Not sure
+,,Lecturer,35,Computer Science,Not at all,Problem-solving,Often,Case studies,Not engaged,No,Communication,Mentoring,No,Sometimes,Data Analytics,Somewhat important,No
+,,Professor,8,Civil Engineering,Highly aligned,Teamwork,Never,Workshops,Highly engaged,Sometimes,Industry knowledge,Mentoring,No,Sometimes,Blockchain,Not important,No
+,,Associate Professor,22,Mechanical Engineering,Well aligned,Teamwork,Never,Case studies,Somewhat engaged,Yes,Communication,Practical labs,Yes,Sometimes,Blockchain,Important,Yes
+,,Assistant Professor,24,Mechanical Engineering,Highly aligned,Problem-solving,Never,Case studies,Highly engaged,No,Industry knowledge,Mentoring,No,Sometimes,Green Energy,Important,Not sure
+,,Associate Professor,27,Electrical Engineering,Somewhat,Technical proficiency,Sometimes,Project-based learning,Highly engaged,Sometimes,Basic concepts,Mentoring,Not sure,Often,Blockchain,Important,Not sure
+,,Associate Professor,36,Mechanical Engineering,Highly aligned,Teamwork,Often,Case studies,Engaged,Yes,Practical skills,Practical labs,Not sure,Sometimes,AI/ML,Not important,Not sure
+,,Assistant Professor,34,Electrical Engineering,Well aligned,Teamwork,Sometimes,Case studies,Not engaged,Sometimes,Communication,Extra classes,Yes,Often,Blockchain,Somewhat important,No
+,,Lecturer,16,Electrical Engineering,Not at all,Critical thinking,Often,Lectures,Somewhat engaged,Yes,Basic concepts,Mentoring,Not sure,Never,Green Energy,Highly important,No
+,,Associate Professor,40,Computer Science,Well aligned,Teamwork,Never,Lectures,Somewhat engaged,No,Practical skills,Practical labs,No,Sometimes,AI/ML,Highly important,No
+,,Professor,31,Mechanical Engineering,Not at all,Problem-solving,Never,Workshops,Highly engaged,Sometimes,Industry knowledge,Practical labs,No,Rarely,Blockchain,Important,Not sure
+,,Lecturer,3,IT,Somewhat,Problem-solving,Never,Project-based learning,Somewhat engaged,No,Communication,Mentoring,Yes,Rarely,Data Analytics,Not important,No
+,,Assistant Professor,2,Computer Science,Well aligned,Problem-solving,Never,Workshops,Not engaged,No,Basic concepts,Mentoring,Not sure,Sometimes,AI/ML,Important,No
+,,Associate Professor,4,Civil Engineering,Highly aligned,Problem-solving,Never,Case studies,Engaged,Sometimes,Industry knowledge,Online resources,Not sure,Often,Blockchain,Somewhat important,No
+,,Professor,18,Electrical Engineering,Highly aligned,Problem-solving,Often,Workshops,Somewhat engaged,Yes,Communication,Online resources,Not sure,Never,Data Analytics,Important,Not sure
+,,Lecturer,12,IT,Not at all,Problem-solving,Often,Case studies,Not engaged,Sometimes,Industry knowledge,Online resources,Not sure,Never,Data Analytics,Not important,Yes
+,,Professor,10,IT,Highly aligned,Critical thinking,Sometimes,Lectures,Engaged,No,Industry knowledge,Online resources,Not sure,Rarely,Data Analytics,Important,Not sure
+,,Assistant Professor,33,IT,Highly aligned,Critical thinking,Often,Workshops,Engaged,Yes,Basic concepts,Practical labs,Not sure,Sometimes,Data Analytics,Highly important,Yes
+,,Associate Professor,30,Electrical Engineering,Highly aligned,Problem-solving,Rarely,Case studies,Not engaged,Sometimes,Industry knowledge,Practical labs,Not sure,Often,AI/ML,Somewhat important,Yes
+,,Assistant Professor,17,Civil Engineering,Not at all,Technical proficiency,Sometimes,Project-based learning,Engaged,No,Practical skills,Practical labs,Yes,Often,Blockchain,Somewhat important,Yes
+,,Assistant Professor,1,IT,Highly aligned,Problem-solving,Sometimes,Lectures,Somewhat engaged,No,Industry knowledge,Extra classes,Not sure,Sometimes,Blockchain,Somewhat important,Yes
+,,Associate Professor,2,Mechanical Engineering,Highly aligned,Critical thinking,Sometimes,Workshops,Highly engaged,Yes,Industry knowledge,Online resources,No,Often,Data Analytics,Not important,Yes
+,,Lecturer,13,IT,Highly aligned,Critical thinking,Never,Lectures,Highly engaged,Sometimes,Practical skills,Practical labs,Not sure,Often,Green Energy,Important,Not sure
+,,Assistant Professor,4,Mechanical Engineering,Well aligned,Critical thinking,Often,Lectures,Somewhat engaged,Yes,Industry knowledge,Online resources,Not sure,Never,Green Energy,Not important,Not sure
+,,Professor,31,Civil Engineering,Somewhat,Teamwork,Rarely,Workshops,Somewhat engaged,No,Communication,Practical labs,No,Often,Data Analytics,Somewhat important,Yes
+,,Assistant Professor,18,Computer Science,Highly aligned,Teamwork,Sometimes,Workshops,Somewhat engaged,Yes,Communication,Online resources,Not sure,Never,Blockchain,Important,Yes
+,,Lecturer,13,Civil Engineering,Not at all,Technical proficiency,Often,Case studies,Highly engaged,Yes,Industry knowledge,Online resources,Not sure,Often,Blockchain,Not important,Yes
+,,Lecturer,6,Civil Engineering,Highly aligned,Problem-solving,Often,Project-based learning,Highly engaged,Sometimes,Practical skills,Practical labs,No,Never,Blockchain,Important,No
+,,Assistant Professor,31,IT,Highly aligned,Problem-solving,Never,Workshops,Not engaged,Yes,Practical skills,Mentoring,Yes,Sometimes,Blockchain,Somewhat important,No
+,,Professor,6,Computer Science,Highly aligned,Teamwork,Often,Lectures,Not engaged,Sometimes,Basic concepts,Mentoring,Yes,Never,AI/ML,Highly important,Yes
+,,Assistant Professor,24,Civil Engineering,Not at all,Teamwork,Rarely,Lectures,Not engaged,Yes,Industry knowledge,Online resources,No,Sometimes,Data Analytics,Somewhat important,No
+,,Associate Professor,21,Civil Engineering,Highly aligned,Technical proficiency,Rarely,Workshops,Somewhat engaged,No,Industry knowledge,Mentoring,Not sure,Rarely,Data Analytics,Not important,Yes
+,,Lecturer,11,IT,Somewhat,Critical thinking,Often,Project-based learning,Not engaged,Sometimes,Practical skills,Extra classes,Yes,Never,AI/ML,Highly important,Not sure
+,,Associate Professor,38,Electrical Engineering,Highly aligned,Teamwork,Sometimes,Lectures,Engaged,No,Practical skills,Mentoring,Yes,Rarely,Blockchain,Not important,No
+,,Associate Professor,32,Electrical Engineering,Somewhat,Problem-solving,Never,Case studies,Somewhat engaged,No,Basic concepts,Practical labs,Not sure,Never,Green Energy,Not important,No
+,,Lecturer,5,Electrical Engineering,Well aligned,Teamwork,Often,Lectures,Engaged,Yes,Communication,Mentoring,No,Never,AI/ML,Somewhat important,No
+,,Professor,39,Computer Science,Well aligned,Teamwork,Rarely,Project-based learning,Highly engaged,Sometimes,Practical skills,Online resources,No,Never,Green Energy,Not important,Not sure
+,,Lecturer,13,Mechanical Engineering,Highly aligned,Critical thinking,Never,Lectures,Somewhat engaged,Yes,Basic concepts,Extra classes,Not sure,Never,AI/ML,Highly important,Not sure
+,,Professor,15,Computer Science,Well aligned,Critical thinking,Never,Project-based learning,Highly engaged,No,Communication,Practical labs,Yes,Often,Green Energy,Highly important,No
+,,Professor,5,Civil Engineering,Highly aligned,Critical thinking,Sometimes,Case studies,Not engaged,Sometimes,Communication,Practical labs,No,Often,Data Analytics,Highly important,Yes
+,,Assistant Professor,7,Civil Engineering,Highly aligned,Problem-solving,Rarely,Project-based learning,Engaged,Sometimes,Practical skills,Practical labs,No,Sometimes,Blockchain,Important,Not sure
+,,Lecturer,23,Mechanical Engineering,Somewhat,Critical thinking,Rarely,Workshops,Engaged,Yes,Practical skills,Practical labs,Not sure,Never,Green Energy,Not important,Yes
+,,Assistant Professor,33,Computer Science,Well aligned,Teamwork,Never,Case studies,Not engaged,No,Basic concepts,Mentoring,Yes,Sometimes,Blockchain,Highly important,Not sure
+,,Assistant Professor,8,Electrical Engineering,Highly aligned,Teamwork,Rarely,Project-based learning,Engaged,Sometimes,Practical skills,Online resources,Yes,Often,Blockchain,Highly important,No
+,,Lecturer,8,Civil Engineering,Highly aligned,Technical proficiency,Rarely,Case studies,Not engaged,Yes,Industry knowledge,Online resources,Yes,Often,Data Analytics,Somewhat important,No
+,,Lecturer,27,Mechanical Engineering,Not at all,Critical thinking,Rarely,Project-based learning,Highly engaged,Yes,Basic concepts,Extra classes,Yes,Sometimes,Blockchain,Not important,Yes
+,,Lecturer,26,Mechanical Engineering,Not at all,Technical proficiency,Never,Case studies,Highly engaged,Sometimes,Basic concepts,Online resources,Yes,Sometimes,Data Analytics,Important,Yes
+,,Associate Professor,5,Civil Engineering,Not at all,Critical thinking,Never,Project-based learning,Somewhat engaged,No,Basic concepts,Practical labs,Not sure,Sometimes,Data Analytics,Not important,Yes
+,,Associate Professor,6,IT,Not at all,Critical thinking,Sometimes,Workshops,Not engaged,Yes,Practical skills,Extra classes,Not sure,Often,Blockchain,Important,Not sure
+,,Associate Professor,38,Electrical Engineering,Somewhat,Technical proficiency,Never,Project-based learning,Not engaged,Sometimes,Industry knowledge,Extra classes,Not sure,Sometimes,AI/ML,Highly important,Not sure
+,,Lecturer,35,Electrical Engineering,Somewhat,Critical thinking,Often,Project-based learning,Engaged,No,Industry knowledge,Extra classes,No,Never,Data Analytics,Not important,Yes
+,,Lecturer,4,Electrical Engineering,Not at all,Problem-solving,Rarely,Project-based learning,Not engaged,Sometimes,Communication,Online resources,Yes,Rarely,Data Analytics,Important,Not sure
+,,Professor,17,Mechanical Engineering,Somewhat,Critical thinking,Never,Case studies,Somewhat engaged,No,Industry knowledge,Mentoring,Not sure,Often,Data Analytics,Important,Not sure
+,,Associate Professor,32,Civil Engineering,Well aligned,Critical thinking,Often,Case studies,Highly engaged,Yes,Practical skills,Online resources,Yes,Rarely,AI/ML,Not important,Yes
+,,Lecturer,6,Computer Science,Somewhat,Teamwork,Never,Case studies,Not engaged,Sometimes,Practical skills,Extra classes,No,Often,Blockchain,Highly important,Not sure
+,,Professor,2,IT,Not at all,Technical proficiency,Rarely,Lectures,Highly engaged,Yes,Basic concepts,Mentoring,Yes,Rarely,AI/ML,Highly important,Not sure
+,,Associate Professor,8,Computer Science,Well aligned,Problem-solving,Sometimes,Workshops,Somewhat engaged,Sometimes,Practical skills,Extra classes,Not sure,Never,Green Energy,Somewhat important,Yes
+,,Assistant Professor,29,IT,Not at all,Teamwork,Sometimes,Project-based learning,Somewhat engaged,Sometimes,Basic concepts,Online resources,Not sure,Rarely,Green Energy,Somewhat important,Yes
+,,Professor,4,Computer Science,Highly aligned,Problem-solving,Often,Case studies,Somewhat engaged,Yes,Practical skills,Practical labs,Yes,Often,Green Energy,Highly important,Not sure
+,,Associate Professor,21,Civil Engineering,Somewhat,Technical proficiency,Often,Project-based learning,Not engaged,No,Industry knowledge,Mentoring,Yes,Sometimes,AI/ML,Highly important,No
+,,Associate Professor,27,Computer Science,Somewhat,Teamwork,Rarely,Project-based learning,Somewhat engaged,Yes,Practical skills,Online resources,Yes,Sometimes,Green Energy,Highly important,Yes
+,,Assistant Professor,13,IT,Highly aligned,Technical proficiency,Sometimes,Project-based learning,Somewhat engaged,Yes,Industry knowledge,Practical labs,No,Rarely,AI/ML,Not important,Not sure
+,,Associate Professor,23,Electrical Engineering,Not at all,Critical thinking,Often,Lectures,Highly engaged,Yes,Practical skills,Online resources,Yes,Rarely,AI/ML,Highly important,Not sure
+,,Professor,2,Civil Engineering,Well aligned,Teamwork,Rarely,Lectures,Highly engaged,Sometimes,Practical skills,Mentoring,No,Rarely,Blockchain,Highly important,Yes
+,,Professor,10,Mechanical Engineering,Somewhat,Teamwork,Never,Case studies,Somewhat engaged,Yes,Communication,Online resources,Yes,Rarely,Green Energy,Not important,Not sure
+,,Associate Professor,36,Mechanical Engineering,Well aligned,Teamwork,Sometimes,Lectures,Not engaged,Sometimes,Communication,Practical labs,Yes,Rarely,Blockchain,Highly important,Yes
+,,Associate Professor,14,Mechanical Engineering,Well aligned,Technical proficiency,Often,Lectures,Somewhat engaged,Yes,Communication,Extra classes,No,Never,Blockchain,Somewhat important,Not sure
+,,Associate Professor,28,Electrical Engineering,Somewhat,Technical proficiency,Never,Workshops,Not engaged,No,Industry knowledge,Mentoring,Not sure,Rarely,Data Analytics,Not important,Yes
+,,Associate Professor,14,Civil Engineering,Somewhat,Problem-solving,Never,Lectures,Highly engaged,Sometimes,Basic concepts,Practical labs,Not sure,Sometimes,Green Energy,Not important,Yes
+,,Lecturer,7,Mechanical Engineering,Somewhat,Teamwork,Sometimes,Workshops,Engaged,Sometimes,Communication,Online resources,Not sure,Sometimes,Green Energy,Not important,Yes
+,,Lecturer,23,IT,Highly aligned,Problem-solving,Rarely,Lectures,Highly engaged,Yes,Communication,Online resources,Yes,Often,Blockchain,Somewhat important,Not sure
+,,Assistant Professor,23,IT,Well aligned,Teamwork,Rarely,Project-based learning,Somewhat engaged,Yes,Practical skills,Practical labs,No,Often,Green Energy,Somewhat important,Yes
+,,Assistant Professor,30,Electrical Engineering,Not at all,Teamwork,Often,Workshops,Somewhat engaged,No,Industry knowledge,Online resources,Not sure,Never,Blockchain,Highly important,Not sure
+,,Lecturer,9,Civil Engineering,Not at all,Critical thinking,Never,Lectures,Not engaged,Yes,Communication,Online resources,Yes,Rarely,Data Analytics,Highly important,Not sure
+,,Associate Professor,23,Electrical Engineering,Well aligned,Critical thinking,Rarely,Lectures,Engaged,Yes,Industry knowledge,Online resources,Not sure,Rarely,Blockchain,Highly important,No
+,,Lecturer,20,IT,Highly aligned,Teamwork,Never,Project-based learning,Somewhat engaged,Yes,Practical skills,Extra classes,Yes,Sometimes,Green Energy,Highly important,No
+,,Lecturer,15,IT,Not at all,Technical proficiency,Rarely,Case studies,Highly engaged,Yes,Practical skills,Online resources,Yes,Sometimes,Data Analytics,Highly important,Not sure
+,,Lecturer,22,Computer Science,Somewhat,Teamwork,Rarely,Case studies,Somewhat engaged,No,Communication,Online resources,Yes,Often,AI/ML,Highly important,No
+,,Assistant Professor,2,Electrical Engineering,Not at all,Problem-solving,Never,Lectures,Somewhat engaged,No,Basic concepts,Online resources,Not sure,Sometimes,Data Analytics,Somewhat important,Not sure
+,,Assistant Professor,11,IT,Highly aligned,Critical thinking,Rarely,Case studies,Not engaged,No,Communication,Extra classes,Not sure,Rarely,Blockchain,Somewhat important,Not sure
+,,Associate Professor,7,Civil Engineering,Not at all,Technical proficiency,Often,Case studies,Engaged,No,Basic concepts,Mentoring,Yes,Often,Blockchain,Somewhat important,Yes
+,,Associate Professor,39,Mechanical Engineering,Well aligned,Teamwork,Sometimes,Case studies,Engaged,Sometimes,Basic concepts,Mentoring,No,Sometimes,Green Energy,Highly important,No
+,,Lecturer,36,Computer Science,Not at all,Problem-solving,Never,Project-based learning,Engaged,Sometimes,Communication,Mentoring,Yes,Never,Blockchain,Highly important,Yes
+,,Professor,6,Civil Engineering,Highly aligned,Problem-solving,Often,Case studies,Highly engaged,Sometimes,Industry knowledge,Practical labs,Not sure,Often,Green Energy,Somewhat important,Not sure
+,,Assistant Professor,24,Mechanical Engineering,Somewhat,Problem-solving,Never,Case studies,Not engaged,No,Industry knowledge,Online resources,Yes,Never,Blockchain,Important,Yes
+,,Assistant Professor,40,Mechanical Engineering,Highly aligned,Technical proficiency,Sometimes,Lectures,Highly engaged,Sometimes,Industry knowledge,Online resources,Yes,Never,Data Analytics,Not important,Not sure
+,,Lecturer,27,IT,Well aligned,Problem-solving,Rarely,Case studies,Engaged,No,Basic concepts,Mentoring,No,Rarely,Green Energy,Important,Not sure
+,,Lecturer,4,Computer Science,Highly aligned,Critical thinking,Never,Case studies,Highly engaged,No,Practical skills,Mentoring,No,Sometimes,AI/ML,Highly important,Yes
+,,Professor,4,Electrical Engineering,Well aligned,Technical proficiency,Rarely,Workshops,Highly engaged,No,Basic concepts,Extra classes,Yes,Never,Data Analytics,Not important,Yes
+,,Assistant Professor,19,Computer Science,Well aligned,Problem-solving,Never,Project-based learning,Highly engaged,Sometimes,Communication,Extra classes,Yes,Never,AI/ML,Highly important,Yes
+,,Associate Professor,2,Civil Engineering,Somewhat,Critical thinking,Sometimes,Lectures,Engaged,Yes,Practical skills,Extra classes,Not sure,Rarely,AI/ML,Not important,Yes
+,,Assistant Professor,35,IT,Highly aligned,Teamwork,Sometimes,Workshops,Not engaged,Yes,Industry knowledge,Mentoring,Yes,Sometimes,Green Energy,Highly important,No
+,,Lecturer,8,Mechanical Engineering,Highly aligned,Problem-solving,Rarely,Case studies,Somewhat engaged,Sometimes,Industry knowledge,Mentoring,Yes,Rarely,Green Energy,Somewhat important,Yes
+,,Professor,16,Computer Science,Not at all,Critical thinking,Rarely,Lectures,Somewhat engaged,Sometimes,Basic concepts,Practical labs,Yes,Sometimes,Data Analytics,Somewhat important,Not sure
+,,Professor,30,Mechanical Engineering,Highly aligned,Teamwork,Never,Workshops,Somewhat engaged,Yes,Industry knowledge,Online resources,No,Rarely,Blockchain,Highly important,Not sure
+,,Assistant Professor,28,Mechanical Engineering,Somewhat,Teamwork,Rarely,Project-based learning,Somewhat engaged,Sometimes,Communication,Online resources,No,Never,Data Analytics,Highly important,Yes
+,,Assistant Professor,5,Electrical Engineering,Well aligned,Teamwork,Often,Project-based learning,Highly engaged,No,Practical skills,Practical labs,Not sure,Rarely,Blockchain,Important,No
+,,Assistant Professor,23,IT,Well aligned,Problem-solving,Never,Project-based learning,Somewhat engaged,Sometimes,Communication,Practical labs,Yes,Often,Green Energy,Not important,No
+,,Associate Professor,4,IT,Not at all,Problem-solving,Often,Workshops,Not engaged,Yes,Basic concepts,Mentoring,Yes,Never,Blockchain,Important,No
+,,Professor,8,IT,Highly aligned,Teamwork,Sometimes,Project-based learning,Not engaged,No,Industry knowledge,Extra classes,Not sure,Sometimes,Data Analytics,Somewhat important,Not sure
+,,Professor,15,IT,Not at all,Teamwork,Often,Case studies,Engaged,No,Practical skills,Online resources,No,Often,Blockchain,Important,Not sure
+,,Professor,35,IT,Highly aligned,Technical proficiency,Rarely,Project-based learning,Not engaged,Yes,Basic concepts,Mentoring,No,Never,Data Analytics,Not important,Yes
+,,Associate Professor,3,IT,Well aligned,Problem-solving,Often,Lectures,Not engaged,Sometimes,Communication,Practical labs,No,Rarely,Data Analytics,Highly important,No
+,,Lecturer,3,IT,Well aligned,Teamwork,Never,Workshops,Somewhat engaged,Sometimes,Communication,Online resources,No,Sometimes,AI/ML,Important,No
+,,Assistant Professor,4,Computer Science,Highly aligned,Problem-solving,Rarely,Project-based learning,Highly engaged,Yes,Industry knowledge,Mentoring,Yes,Sometimes,Green Energy,Not important,Not sure
+,,Lecturer,36,Mechanical Engineering,Not at all,Critical thinking,Rarely,Case studies,Engaged,Sometimes,Industry knowledge,Practical labs,No,Never,Blockchain,Highly important,Not sure
+,,Lecturer,35,Electrical Engineering,Not at all,Critical thinking,Sometimes,Workshops,Not engaged,Yes,Practical skills,Extra classes,Not sure,Rarely,Data Analytics,Highly important,Not sure
+,,Assistant Professor,3,IT,Somewhat,Teamwork,Rarely,Project-based learning,Somewhat engaged,Sometimes,Practical skills,Online resources,Yes,Rarely,Blockchain,Highly important,Yes
+,,Associate Professor,3,IT,Well aligned,Problem-solving,Rarely,Case studies,Engaged,Sometimes,Basic concepts,Practical labs,No,Rarely,Data Analytics,Important,No
+,,Lecturer,27,Computer Science,Well aligned,Teamwork,Never,Lectures,Highly engaged,Yes,Communication,Mentoring,Yes,Rarely,Blockchain,Not important,Not sure
+,,Assistant Professor,26,Computer Science,Somewhat,Technical proficiency,Sometimes,Workshops,Somewhat engaged,Sometimes,Industry knowledge,Online resources,Not sure,Often,Green Energy,Important,No
+,,Associate Professor,26,Mechanical Engineering,Somewhat,Technical proficiency,Rarely,Lectures,Somewhat engaged,No,Practical skills,Mentoring,Not sure,Sometimes,Data Analytics,Somewhat important,Yes
+,,Associate Professor,27,Computer Science,Not at all,Teamwork,Often,Case studies,Engaged,Sometimes,Practical skills,Extra classes,Not sure,Often,Green Energy,Not important,No
+,,Associate Professor,20,Electrical Engineering,Well aligned,Critical thinking,Rarely,Case studies,Somewhat engaged,Yes,Communication,Online resources,Not sure,Sometimes,AI/ML,Highly important,No
+,,Associate Professor,40,Civil Engineering,Somewhat,Teamwork,Often,Lectures,Not engaged,Sometimes,Industry knowledge,Practical labs,Not sure,Never,AI/ML,Somewhat important,No
+,,Lecturer,32,Electrical Engineering,Well aligned,Teamwork,Often,Case studies,Engaged,No,Industry knowledge,Practical labs,Not sure,Sometimes,AI/ML,Important,Not sure
+,,Professor,35,Mechanical Engineering,Well aligned,Technical proficiency,Sometimes,Lectures,Not engaged,Yes,Industry knowledge,Online resources,No,Often,Data Analytics,Highly important,No
+,,Assistant Professor,38,Electrical Engineering,Well aligned,Problem-solving,Often,Workshops,Highly engaged,Yes,Industry knowledge,Mentoring,No,Often,Blockchain,Highly important,Not sure
+,,Associate Professor,2,Electrical Engineering,Not at all,Technical proficiency,Rarely,Workshops,Not engaged,No,Practical skills,Practical labs,Yes,Rarely,Blockchain,Somewhat important,Yes
+,,Lecturer,11,Mechanical Engineering,Somewhat,Problem-solving,Sometimes,Lectures,Not engaged,Sometimes,Basic concepts,Extra classes,No,Sometimes,Blockchain,Highly important,No
+,,Associate Professor,37,IT,Somewhat,Problem-solving,Often,Lectures,Somewhat engaged,Sometimes,Industry knowledge,Practical labs,Yes,Often,Blockchain,Somewhat important,Not sure
+,,Professor,16,Electrical Engineering,Somewhat,Teamwork,Often,Project-based learning,Not engaged,Yes,Practical skills,Mentoring,Not sure,Sometimes,Blockchain,Highly important,No
+,,Assistant Professor,22,Electrical Engineering,Highly aligned,Critical thinking,Rarely,Project-based learning,Engaged,No,Industry knowledge,Mentoring,Not sure,Sometimes,Data Analytics,Highly important,Not sure
+,,Professor,31,Computer Science,Highly aligned,Teamwork,Rarely,Lectures,Highly engaged,No,Basic concepts,Extra classes,No,Never,Data Analytics,Not important,No
+,,Assistant Professor,18,Mechanical Engineering,Highly aligned,Teamwork,Rarely,Lectures,Highly engaged,No,Industry knowledge,Mentoring,Not sure,Never,Blockchain,Not important,No
+,,Assistant Professor,26,Mechanical Engineering,Well aligned,Teamwork,Sometimes,Lectures,Engaged,Sometimes,Industry knowledge,Online resources,Not sure,Often,Blockchain,Important,Not sure
+,,Lecturer,37,Mechanical Engineering,Somewhat,Problem-solving,Rarely,Lectures,Somewhat engaged,Yes,Industry knowledge,Online resources,No,Often,Data Analytics,Highly important,Not sure
+,,Assistant Professor,11,Civil Engineering,Somewhat,Critical thinking,Never,Case studies,Somewhat engaged,No,Basic concepts,Online resources,Not sure,Never,Data Analytics,Somewhat important,Not sure
+,,Professor,7,IT,Highly aligned,Critical thinking,Sometimes,Workshops,Somewhat engaged,Sometimes,Communication,Online resources,No,Often,Data Analytics,Somewhat important,Yes
+,,Professor,18,Computer Science,Highly aligned,Teamwork,Rarely,Project-based learning,Highly engaged,Sometimes,Practical skills,Mentoring,No,Sometimes,Data Analytics,Not important,No
+,,Lecturer,15,Civil Engineering,Not at all,Teamwork,Rarely,Lectures,Not engaged,Sometimes,Practical skills,Extra classes,Not sure,Rarely,AI/ML,Somewhat important,No
+,,Professor,18,Civil Engineering,Somewhat,Problem-solving,Often,Lectures,Highly engaged,Sometimes,Communication,Practical labs,Not sure,Rarely,AI/ML,Highly important,Not sure
+,,Associate Professor,33,Civil Engineering,Not at all,Teamwork,Never,Lectures,Highly engaged,Sometimes,Practical skills,Extra classes,Yes,Sometimes,Blockchain,Highly important,No
+,,Professor,25,Computer Science,Not at all,Technical proficiency,Often,Project-based learning,Highly engaged,No,Practical skills,Online resources,Yes,Never,Data Analytics,Somewhat important,Yes
+,,Lecturer,26,Electrical Engineering,Not at all,Problem-solving,Sometimes,Case studies,Somewhat engaged,Sometimes,Communication,Mentoring,Yes,Rarely,Green Energy,Highly important,No
+,,Professor,2,Electrical Engineering,Highly aligned,Technical proficiency,Never,Workshops,Somewhat engaged,Sometimes,Practical skills,Extra classes,Not sure,Often,Green Energy,Important,Yes
+,,Associate Professor,23,Computer Science,Highly aligned,Problem-solving,Often,Project-based learning,Engaged,Yes,Communication,Online resources,Not sure,Sometimes,Green Energy,Not important,Not sure
+,,Professor,4,Electrical Engineering,Highly aligned,Critical thinking,Often,Workshops,Highly engaged,Sometimes,Industry knowledge,Mentoring,No,Often,Data Analytics,Highly important,Not sure
+,,Professor,17,Electrical Engineering,Somewhat,Critical thinking,Sometimes,Lectures,Engaged,No,Practical skills,Extra classes,Not sure,Often,Blockchain,Somewhat important,No
+,,Assistant Professor,26,Computer Science,Not at all,Critical thinking,Never,Lectures,Not engaged,Sometimes,Industry knowledge,Extra classes,No,Never,Data Analytics,Important,Yes
+,,Assistant Professor,39,Civil Engineering,Not at all,Problem-solving,Sometimes,Project-based learning,Highly engaged,Yes,Communication,Practical labs,No,Often,Blockchain,Not important,Not sure
+,,Associate Professor,4,Civil Engineering,Highly aligned,Technical proficiency,Rarely,Case studies,Somewhat engaged,No,Industry knowledge,Online resources,Yes,Sometimes,Data Analytics,Highly important,Not sure
+,,Lecturer,16,Computer Science,Highly aligned,Teamwork,Often,Lectures,Not engaged,No,Basic concepts,Extra classes,No,Sometimes,Blockchain,Not important,No
+,,Assistant Professor,11,Computer Science,Well aligned,Technical proficiency,Never,Workshops,Somewhat engaged,No,Practical skills,Practical labs,No,Rarely,AI/ML,Highly important,Yes
+,,Assistant Professor,37,Civil Engineering,Well aligned,Critical thinking,Often,Case studies,Somewhat engaged,Sometimes,Industry knowledge,Practical labs,Not sure,Sometimes,Green Energy,Not important,Yes
+,,Professor,37,Mechanical Engineering,Somewhat,Problem-solving,Never,Lectures,Not engaged,No,Practical skills,Practical labs,Yes,Rarely,Data Analytics,Important,Not sure
+,,Professor,16,Electrical Engineering,Highly aligned,Problem-solving,Often,Workshops,Engaged,No,Basic concepts,Extra classes,Yes,Often,AI/ML,Highly important,Yes
+,,Assistant Professor,28,Electrical Engineering,Well aligned,Problem-solving,Rarely,Workshops,Not engaged,Yes,Practical skills,Practical labs,No,Often,Blockchain,Important,Yes
+,,Lecturer,6,Computer Science,Not at all,Critical thinking,Sometimes,Lectures,Not engaged,No,Industry knowledge,Online resources,Yes,Sometimes,Green Energy,Somewhat important,Not sure
+,,Associate Professor,21,Civil Engineering,Somewhat,Critical thinking,Sometimes,Workshops,Engaged,Yes,Communication,Extra classes,No,Often,Data Analytics,Important,No
+,,Associate Professor,6,Electrical Engineering,Highly aligned,Critical thinking,Sometimes,Case studies,Somewhat engaged,Sometimes,Industry knowledge,Extra classes,Yes,Sometimes,Blockchain,Not important,No
+,,Lecturer,10,Electrical Engineering,Not at all,Technical proficiency,Sometimes,Workshops,Engaged,Yes,Communication,Online resources,No,Never,Green Energy,Highly important,Not sure
+,,Associate Professor,37,Electrical Engineering,Well aligned,Critical thinking,Often,Lectures,Engaged,Yes,Industry knowledge,Mentoring,Yes,Sometimes,Green Energy,Highly important,Yes
+,,Professor,11,Civil Engineering,Well aligned,Critical thinking,Often,Lectures,Not engaged,No,Communication,Mentoring,No,Never,Blockchain,Highly important,No
+,,Assistant Professor,25,Computer Science,Somewhat,Teamwork,Sometimes,Project-based learning,Somewhat engaged,No,Industry knowledge,Mentoring,Not sure,Often,Blockchain,Important,Not sure
+,,Assistant Professor,15,Computer Science,Highly aligned,Technical proficiency,Sometimes,Project-based learning,Engaged,Yes,Practical skills,Extra classes,No,Often,Data Analytics,Important,No
+,,Lecturer,9,Electrical Engineering,Somewhat,Teamwork,Often,Project-based learning,Highly engaged,Sometimes,Practical skills,Mentoring,Yes,Sometimes,Green Energy,Important,Not sure
+,,Associate Professor,28,Mechanical Engineering,Somewhat,Teamwork,Never,Lectures,Highly engaged,Yes,Communication,Extra classes,Not sure,Rarely,Data Analytics,Somewhat important,Yes
